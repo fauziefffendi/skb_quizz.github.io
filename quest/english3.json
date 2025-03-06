@@ -1,0 +1,227 @@
+[
+    {
+        "question": "Common salt occurs naturally in pure, solidly form as the mineral halite and in widely distributed deposits of rock, or mineral, salts.",
+        "option1": "a. Common",
+        "option2": "b. Solidly",
+        "option3": "c. And",
+        "option4": "d. Or",
+        "answer": "b. Solidly",
+        "explanation": "Kalimat ini memiliki subjek 'Common salt' dan predikat 'occurs'. Kesalahan terletak pada bagian 'solidly form'. Seharusnya, 'solidly' diganti dengan 'solid' untuk membentuk frasa yang benar. Jadi, bagian yang salah adalah B dan seharusnya diganti dengan 'solid'."
+    },
+    {
+        "question": "The term “metabolism” refers to the chemical changes which by living things transform food into energy.",
+        "option1": "a. Term",
+        "option2": "b. Which",
+        "option3": "c. By",
+        "option4": "d. Into",
+        "answer": "b. Which",
+        "explanation": "Kalimat ini memiliki subjek 'The term “metabolism”' dan predikat 'refers'. Kesalahan terletak pada bagian 'which by living things'. Seharusnya, 'which' diganti dengan 'through which' untuk membentuk kalimat yang benar. Jadi, bagian yang salah adalah B dan seharusnya diganti dengan 'through which'."
+    },
+    {
+        "question": "Materials that of clay are among the most ancient manufactured articles and have played a vital role in human civilization.",
+        "option1": "a. That",
+        "option2": "b. Of",
+        "option3": "c. And",
+        "option4": "d. In",
+        "answer": "a. That",
+        "explanation": "Kalimat ini memiliki subjek 'Materials' dan predikat 'are'. Kesalahan terletak pada bagian 'that of clay'. Seharusnya, 'that of' diganti dengan 'made of' untuk membentuk frasa yang benar. Jadi, bagian yang salah adalah A dan seharusnya diganti dengan 'made of'."
+    },
+    {
+        "question": "Yogurt contains a higher percentage of lactic acid than another fermented milks, and it is rich in B-complex vitamins.",
+        "option1": "a. Contains",
+        "option2": "b. Another",
+        "option3": "c. And",
+        "option4": "d. In",
+        "answer": "b. Another",
+        "explanation": "Kalimat ini memiliki subjek 'Yogurt' dan predikat 'contains'. Kesalahan terletak pada bagian 'another fermented milks'. Seharusnya, 'another' diganti dengan 'other' karena 'milks' adalah kata benda jamak. Jadi, bagian yang salah adalah B dan seharusnya diganti dengan 'other'."
+    },
+    {
+        "question": "Canada is made up of ten provinces and two territories, with governmental powers being divided between the federal government or the provinces.",
+        "option1": "a. Is",
+        "option2": "b. And",
+        "option3": "c. Being",
+        "option4": "d. Or",
+        "answer": "d. Or",
+        "explanation": "Kalimat ini memiliki subjek 'Canada' dan predikat 'is made up'. Kesalahan terletak pada bagian 'or the provinces'. Seharusnya, 'or' diganti dengan 'and' untuk menunjukkan pembagian yang benar. Jadi, bagian yang salah adalah D dan seharusnya diganti dengan 'and'."
+    },
+    {
+        "question": "Before the formation of labor unions, individual workers had almost not voice in determining their wages, hours, or working conditions.",
+        "option1": "a. Before",
+        "option2": "b. Not",
+        "option3": "c. Their",
+        "option4": "d. Or",
+        "answer": "b. Not",
+        "explanation": "Kalimat ini memiliki subjek 'individual workers' dan predikat 'had'. Kesalahan terletak pada bagian 'almost not voice'. Seharusnya, 'not' diganti dengan 'no' untuk membentuk frasa yang benar. Jadi, bagian yang salah adalah B dan seharusnya diganti dengan 'no'."
+    },
+    {
+        "question": "In the United States, the leading butter-producing states which are Wisconsin, California, and Minnesota.",
+        "option1": "a. In",
+        "option2": "b. Which",
+        "option3": "c. And",
+        "option4": "d. Minnesota",
+        "answer": "b. Which",
+        "explanation": "Kalimat ini memiliki subjek 'the leading butter-producing states' dan predikat 'are'. Kesalahan terletak pada bagian 'which are'. Seharusnya, 'which' dihilangkan untuk membentuk kalimat yang benar. Jadi, bagian yang salah adalah B dan seharusnya dihilangkan."
+    },
+    {
+        "question": "Each stanza of a poem has a repeatable pattern of meter and rhyme and is normally division from the following stanza by a blank line.",
+        "option1": "a. Each",
+        "option2": "b. And",
+        "option3": "c. Division",
+        "option4": "d. By",
+        "answer": "c. Division",
+        "explanation": "Kalimat ini memiliki subjek 'Each stanza' dan predikat 'has'. Kesalahan terletak pada bagian 'is normally division'. Seharusnya, 'division' diganti dengan 'divided' untuk membentuk kalimat pasif yang benar. Jadi, bagian yang salah adalah C dan seharusnya diganti dengan 'divided'."
+    },
+    {
+        "question": "Floyd Bennett was a pilot for two of the Arctic expedition of the 1920’s and the first pilot to fly over the North Pole.",
+        "option1": "a. Was",
+        "option2": "b. Of",
+        "option3": "c. And",
+        "option4": "d. To",
+        "answer": "b. Of",
+        "explanation": "Kalimat ini memiliki subjek 'Floyd Bennett' dan predikat 'was'. Kesalahan terletak pada bagian 'two of the Arctic expedition'. Seharusnya, 'of' diganti dengan 'on' untuk membentuk frasa yang benar. Jadi, bagian yang salah adalah B dan seharusnya diganti dengan 'on'."
+    },
+    {
+        "question": "To those who favorite free trade, the revival of barter can suggest nothing less than a disaster.",
+        "option1": "a. To",
+        "option2": "b. Favorite",
+        "option3": "c. Can",
+        "option4": "d. Than",
+        "answer": "b. Favorite",
+        "explanation": "Kalimat ini memiliki subjek 'the revival of barter' dan predikat 'can suggest'. Kesalahan terletak pada bagian 'who favorite free trade'. Seharusnya, 'favorite' diganti dengan 'favor' untuk membentuk kalimat yang benar. Jadi, bagian yang salah adalah B dan seharusnya diganti dengan 'favor'."
+    },
+    {
+        "question": "In the United States, about 75 percent of the total tomatoes crop is processed into juice, canned tomatoes, sauces, pastes, and ketchup.",
+        "option1": "a. In",
+        "option2": "b. Total",
+        "option3": "c. Is",
+        "option4": "d. And",
+        "answer": "b. Total",
+        "explanation": "Kalimat ini memiliki subjek 'about 75 percent of the total tomatoes crop' dan predikat 'is processed'. Kesalahan terletak pada bagian 'total tomatoes crop'. Seharusnya, 'total' diganti dengan 'total tomato' untuk membentuk frasa yang benar. Jadi, bagian yang salah adalah B dan seharusnya diganti dengan 'total tomato'."
+    },
+    {
+        "question": "Today’s nuclear fission fuels are the remnants of which used to be a much more active mixture of radioactive and fissionable materials two billion years ago and earlier.",
+        "option1": "a. Today’s",
+        "option2": "b. Which",
+        "option3": "c. And",
+        "option4": "d. Earlier",
+        "answer": "b. Which",
+        "explanation": "Kalimat ini memiliki subjek 'Today’s nuclear fission fuels' dan predikat 'are'. Kesalahan terletak pada bagian 'of which used to be'. Seharusnya, 'which' diganti dengan 'what' untuk membentuk kalimat yang benar. Jadi, bagian yang salah adalah B dan seharusnya diganti dengan 'what'."
+    },
+    {
+        "question": "Petrography concerns primarily with the detailed description and classification of rocks, whereas petrology deals primarily with rock formation.",
+        "option1": "a. Concerns",
+        "option2": "b. With",
+        "option3": "c. And",
+        "option4": "d. Whereas",
+        "answer": "a. Concerns",
+        "explanation": "Kalimat ini memiliki subjek 'Petrography' dan predikat 'concerns'. Kesalahan terletak pada bagian 'concerns primarily with'. Seharusnya, 'concerns' diganti dengan 'is concerned' untuk membentuk kalimat yang benar. Jadi, bagian yang salah adalah A dan seharusnya diganti dengan 'is concerned'."
+    },
+    {
+        "question": "Depending on many factors, including climate, mineral content of the soil, and the permanency of surface water, wetlands may be mossy, grassy, or covering with shrubs or trees.",
+        "option1": "a. Depending",
+        "option2": "b. And",
+        "option3": "c. Or",
+        "option4": "d. Covering",
+        "answer": "d. Covering",
+        "explanation": "Kalimat ini memiliki subjek 'wetlands' dan predikat 'may be'. Kesalahan terletak pada bagian 'covering with shrubs or trees'. Seharusnya, 'covering' diganti dengan 'covered' untuk membentuk kalimat pasif yang benar. Jadi, bagian yang salah adalah D dan seharusnya diganti dengan 'covered'."
+    },
+    {
+        "question": "In many areas of the world, people need clothing for protection the weather.",
+        "option1": "a. In",
+        "option2": "b. Need",
+        "option3": "c. Protection",
+        "option4": "d. Weather",
+        "answer": "c. Protection",
+        "explanation": "Kalimat ini memiliki subjek 'people' dan predikat 'need'. Kesalahan terletak pada bagian 'protection the weather'. Seharusnya, 'protection' diikuti oleh preposisi 'from' untuk membentuk frasa yang benar. Jadi, bagian yang salah adalah C dan seharusnya diganti dengan 'protection from the weather'."
+    },
+    {
+        "question": "Hoover Dam in Nevada is a multipurpose structure that provides flood control, hydroelectric powerful, and drinking and irrigation water.",
+        "option1": "a. Is",
+        "option2": "b. Provides",
+        "option3": "c. Powerful",
+        "option4": "d. And",
+        "answer": "c. Powerful",
+        "explanation": "Kalimat ini memiliki subjek 'Hoover Dam' dan predikat 'is'. Kesalahan terletak pada bagian 'hydroelectric powerful'. Seharusnya, 'powerful' diganti dengan 'power' untuk membentuk frasa yang benar. Jadi, bagian yang salah adalah C dan seharusnya diganti dengan 'hydroelectric power'."
+    },
+    {
+        "question": "Physiologically, the period of adolescence is marked by active growth, especially in the skeletal and muscular systems and in a certain vascular tissues.",
+        "option1": "a. Physiologically",
+        "option2": "b. Is",
+        "option3": "c. And",
+        "option4": "d. A certain",
+        "answer": "d. A certain",
+        "explanation": "Kalimat ini memiliki subjek 'the period of adolescence' dan predikat 'is marked'. Kesalahan terletak pada bagian 'in a certain vascular tissues'. Seharusnya, 'a certain' diganti dengan 'certain' karena 'tissues' adalah kata benda jamak. Jadi, bagian yang salah adalah D dan seharusnya diganti dengan 'in certain vascular tissues'."
+    },
+    {
+        "question": "Free nitrogen is chemically inert and combines with other elements only since very high temperatures or pressures.",
+        "option1": "a. Is",
+        "option2": "b. Combines",
+        "option3": "c. Since",
+        "option4": "d. Or",
+        "answer": "c. Since",
+        "explanation": "Kalimat ini memiliki subjek 'Free nitrogen' dan predikat 'is'. Kesalahan terletak pada bagian 'only since very high temperatures'. Seharusnya, 'since' diganti dengan 'at' untuk membentuk frasa yang benar. Jadi, bagian yang salah adalah C dan seharusnya diganti dengan 'at'."
+    },
+    {
+        "question": "Sawfish are shark-like fish have “saws” of cartilage set with two rows of teeth on their snouts.",
+        "option1": "a. Are",
+        "option2": "b. Have",
+        "option3": "c. Set",
+        "option4": "d. On",
+        "answer": "b. Have",
+        "explanation": "Kalimat ini memiliki subjek 'Sawfish' dan predikat 'are'. Kesalahan terletak pada bagian 'fish have'. Seharusnya, 'have' diganti dengan 'that have' untuk membentuk kalimat yang benar. Jadi, bagian yang salah adalah B dan seharusnya diganti dengan 'that have'."
+    },
+    {
+        "question": "The decade of the 1920’s was significant in Georgia’s history because of the rapidity with what agriculture declined in the state.",
+        "option1": "a. Was",
+        "option2": "b. With",
+        "option3": "c. What",
+        "option4": "d. Declined",
+        "answer": "c. What",
+        "explanation": "Kalimat ini memiliki subjek 'The decade of the 1920’s' dan predikat 'was'. Kesalahan terletak pada bagian 'with what agriculture declined'. Seharusnya, 'what' diganti dengan 'which' untuk membentuk kalimat yang benar. Jadi, bagian yang salah adalah C dan seharusnya diganti dengan 'which'."
+    },
+    {
+        "question": "Although usually living on or under rocks or on coral reefs, marine snails have been observed in a great various of habitats.",
+        "option1": "a. Although",
+        "option2": "b. Living",
+        "option3": "c. In",
+        "option4": "d. Various",
+        "answer": "d. Various",
+        "explanation": "Kalimat ini memiliki subjek 'marine snails' dan predikat 'have been observed'. Kesalahan terletak pada bagian 'a great various of habitats'. Seharusnya, 'various' diganti dengan 'variety' untuk membentuk frasa yang benar. Jadi, bagian yang salah adalah D dan seharusnya diganti dengan 'variety'."
+    },
+    {
+        "question": "In the field of acting theory, controversy arises over the question of whether is acting a behavioral or a mental process.",
+        "option1": "a. In",
+        "option2": "b. Arises",
+        "option3": "c. Whether",
+        "option4": "d. Is",
+        "answer": "d. Is",
+        "explanation": "Kalimat ini memiliki subjek 'controversy' dan predikat 'arises'. Kesalahan terletak pada bagian 'whether is acting'. Seharusnya, 'is' dipindahkan setelah 'acting' untuk membentuk kalimat yang benar. Jadi, bagian yang salah adalah D dan seharusnya diganti dengan 'acting is'."
+    },
+    {
+        "question": "Shortwave radios that can receive and transmit signals are used by pilots, the police, and amateur operator.",
+        "option1": "a. That",
+        "option2": "b. Are",
+        "option3": "c. And",
+        "option4": "d. Operator",
+        "answer": "d. Operator",
+        "explanation": "Kalimat ini memiliki subjek 'Shortwave radios' dan predikat 'are used'. Kesalahan terletak pada bagian 'amateur operator'. Seharusnya, 'operator' diganti dengan 'operators' karena merujuk pada lebih dari satu orang. Jadi, bagian yang salah adalah D dan seharusnya diganti dengan 'operators'."
+    },
+    {
+        "question": "Because silk is the strongest of all natural fibers, ranking in strong with the synthetic fiber nylon, its delicate look and feel are deceptive.",
+        "option1": "a. Because",
+        "option2": "b. Strongest",
+        "option3": "c. In strong",
+        "option4": "d. Are",
+        "answer": "c. In strong",
+        "explanation": "Kalimat ini memiliki subjek 'silk' dan predikat 'is'. Kesalahan terletak pada bagian 'ranking in strong'. Seharusnya, 'in strong' diganti dengan 'in strength' untuk membentuk frasa yang benar. Jadi, bagian yang salah adalah C dan seharusnya diganti dengan 'in strength'."
+    },
+    {
+        "question": "The Red River, so named because of the red-colored sediment it carries, it is one of the main branches of the Mississippi.",
+        "option1": "a. So",
+        "option2": "b. It",
+        "option3": "c. Is",
+        "option4": "d. Of",
+        "answer": "b. It",
+        "explanation": "Kalimat ini memiliki subjek 'The Red River' dan predikat 'is'. Kesalahan terletak pada bagian 'it is'. Seharusnya, 'it' dihilangkan karena subjek sudah jelas. Jadi, bagian yang salah adalah B dan seharusnya dihilangkan."
+    }
+]

@@ -1,272 +1,137 @@
 [
-    {
-      "question": "In 1864 Nevada entered the United States as ____ thirty-sixth state.",
-      "option1": "in the",
-      "option2": "to be the",
-      "option3": "was the",
-      "option4": "the",
-      "answer": "the",
-      "explanation": "Kita menggunakan 'the' sebelum ordinal number (seperti 'thirty-sixth') karena merujuk pada sesuatu yang spesifik."
-    },
-    {
-      "question": "Bob Stephenson, a biologist in Alaska who studies the Canadian lynx, a type of wildcat, has learned ___ from studying their tracks in the snow.",
-      "option1": "how lynx hunt",
-      "option2": "lynx hunt how",
-      "option3": "how hunt lynx",
-      "option4": "lynx how hunt",
-      "answer": "how lynx hunt",
-      "explanation": "Struktur yang benar untuk klausa tanya adalah 'how + subjek + kata kerja'. 'How lynx hunt' adalah struktur yang tepat."
-    },
-    {
-      "question": "___ lay eggs, but some give birth to live young.",
-      "option1": "Although most insects",
-      "option2": "Most insects",
-      "option3": "Despite most insects",
-      "option4": "most insects that",
-      "answer": "Most insects",
-      "explanation": "'Most insects' adalah noun phrase yang berfungsi sebagai subjek dan sesuai dengan kata kerja 'lay'."
-    },
-    {
-      "question": "Author Sarah Jewett established her literary reputation with Deephaven, a collection of sketches ___.",
-      "option1": "with rural Maine life",
-      "option2": "that life in rural Maine",
-      "option3": "about life in rural Maine",
-      "option4": "life in rural Maine",
-      "answer": "about life in rural Maine",
-      "explanation": "'About' adalah preposisi yang tepat untuk menunjukkan tema atau isi dari sketsa-sketsa tersebut."
-    },
-    {
-      "question": "By means of various types of wind tunnels, ___ simulate most of the flight conditions to which an airplane is subjected.",
-      "option1": "which aeronautical engineers can",
-      "option2": "aeronautical engineers can",
-      "option3": "the ability of aeronautical engineers to",
-      "option4": "aeronautical engineers, being able to",
-      "answer": "aeronautical engineers can",
-      "explanation": "'Aeronautical engineers can' adalah subjek dan kata kerja yang sesuai dengan predikat 'simulate'."
-    },
-    {
-      "question": "___ planes in flight between airports, air traffic controllers rely on radar.",
-      "option1": "Tracked",
-      "option2": "Track of",
-      "option3": "To track",
-      "option4": "Of tracking",
-      "answer": "To track",
-      "explanation": "'To track' adalah infinitive phrase yang menunjukkan tujuan dari tindakan air traffic controllers."
-    },
-    {
-      "question": "The operating principles of the telephone are ___ they were in the nineteenth century.",
-      "option1": "the same as today",
-      "option2": "the same today",
-      "option3": "the same today as",
-      "option4": "today what the same",
-      "answer": "the same today as",
-      "explanation": "Struktur yang benar untuk menunjukkan kesamaan adalah 'the same... as'. 'The same today as' adalah struktur yang tepat."
-    },
-    {
-      "question": "Steel magnate Andrew Carnegie used part of his wealth ___ more than 2500 public libraries in English-speaking countries between 1881 and 1919.",
-      "option1": "helped in building",
-      "option2": "helped him to building",
-      "option3": "to help build",
-      "option4": "his help in building",
-      "answer": "to help build",
-      "explanation": "'To help build' adalah infinitive phrase yang menunjukkan tujuan Andrew Carnegie menggunakan kekayaannya."
-    },
-    {
-      "question": "Not until 1949 ___ Canada's tenth province.",
-      "option1": "became Newfoundland",
-      "option2": "did Newfoundland become",
-      "option3": "Newfoundland did become",
-      "option4": "Newfoundland become",
-      "answer": "did Newfoundland become",
-      "explanation": "Ketika kalimat dimulai dengan 'not until', gunakan struktur terbalik: auxiliary verb + subjek + kata kerja utama."
-    },
-    {
-      "question": "Paul Samuelson revolutionized __ by presenting his students with the most advanced economic thinking at an introductory level.",
-      "option1": "to teach economics",
-      "option2": "the teaching of economics",
-      "option3": "teachings that economics is",
-      "option4": "economics is taught",
-      "answer": "the teaching of economics",
-      "explanation": "'The teaching of economics' adalah noun phrase yang berfungsi sebagai objek dan menjelaskan apa yang diubah oleh Paul Samuelson."
-    },
-    {
-      "question": "The term belles-lettres is used to denote literary forms that contain___, such as drama, poetry, essays, and novels.",
-      "option1": "artistic, creative writing",
-      "option2": "writing that artistic, creative",
-      "option3": "artistic, creative, and writing",
-      "option4": "them is artistic, creative writing",
-      "answer": "artistic, creative writing",
-      "explanation": "'Artistic, creative writing' adalah frasa yang menjelaskan sifat dari literary forms."
-    },
-    {
-      "question": "Open-pit mining follows the same sequence of operations ___ mining: drilling, blasting, and loading and removing waste and ore.",
-      "option1": "where underground",
-      "option2": "that underground",
-      "option3": "as underground",
-      "option4": "in underground",
-      "answer": "as underground",
-      "explanation": "Struktur yang benar untuk menunjukkan kesamaan adalah 'the same... as'. 'As underground' adalah struktur yang tepat."
-    },
-    {
-      "question": "___ in cases where special oxidants are used, fires are the results of a fuel rapidly combining with the oxygen in the air.",
-      "option1": "there are",
-      "option2": "even though",
-      "option3": "how",
-      "option4": "except",
-      "answer": "except",
-      "explanation": "'Except' digunakan untuk menunjukkan pengecualian, yang sesuai dengan konteks kalimat."
-    },
-    {
-      "question": "Maya Angelou's widely acclaimed autobiography, I Know Why the Caged Bird Sings, is a moving and ___ of her childhood in segregated Arkansas.",
-      "option1": "an account that is often humorous",
-      "option2": "often humorous as an account",
-      "option3": "often humorous, the account",
-      "option4": "often humorous account",
-      "answer": "often humorous account",
-      "explanation": "'Often humorous account' adalah adjective phrase yang sejajar dengan 'moving' dan sesuai secara gramatikal."
-    },
-    {
-      "question": "___ to study element 104 because only a few atoms of this substance can be isolated at one time.",
-      "option1": "the difficulty",
-      "option2": "why it is difficult",
-      "option3": "it is difficult",
-      "option4": "even though difficult",
-      "answer": "it is difficult",
-      "explanation": "'It is difficult' adalah independent clause yang menjelaskan kesulitan dalam mempelajari elemen 104."
-    },
-    {
-        "question": "The discovery of penicillin by Alexander Fleming in 1928 ___ the development of antibiotics.",
-        "option1": "has revolutionized",
-        "option2": "revolutionized",
-        "option3": "was revolutionizing",
-        "option4": "revolutionizes",
-        "answer": "revolutionized",
-        "explanation": "Kalimat ini menggunakan past tense karena merujuk pada peristiwa di masa lalu (1928)."
-      },
-      {
-        "question": "Despite the heavy rain, the football match ___ as scheduled.",
-        "option1": "continued",
-        "option2": "was continued",
-        "option3": "had continued",
-        "option4": "continues",
-        "answer": "continued",
-        "explanation": "Kalimat ini menggunakan past tense karena merujuk pada peristiwa yang sudah terjadi."
-      },
-      {
-        "question": "The new policy ___ by the government last week has caused a lot of controversy.",
-        "option1": "introduced",
-        "option2": "was introduced",
-        "option3": "introducing",
-        "option4": "to introduce",
-        "answer": "introduced",
-        "explanation": "'Introduced' adalah past participle yang digunakan sebagai adjective untuk menjelaskan 'policy'."
-      },
-      {
-        "question": "If I ___ you, I would take the job offer immediately.",
-        "option1": "am",
-        "option2": "were",
-        "option3": "will be",
-        "option4": "have been",
-        "answer": "were",
-        "explanation": "Kalimat ini menggunakan conditional type 2, di mana 'were' digunakan untuk subjek 'I' dalam situasi hipotetis."
-      },
-      {
-        "question": "The book, ___ by a famous author, has become a bestseller.",
-        "option1": "written",
-        "option2": "was written",
-        "option3": "writing",
-        "option4": "to write",
-        "answer": "written",
-        "explanation": "'Written' adalah past participle yang digunakan sebagai adjective untuk menjelaskan 'book'."
-      },
-      {
-        "question": "By the time we arrived at the station, the train ___.",
-        "option1": "had already left",
-        "option2": "has already left",
-        "option3": "was already leaving",
-        "option4": "already left",
-        "answer": "had already left",
-        "explanation": "Kalimat ini menggunakan past perfect tense karena aksi ('left') terjadi sebelum aksi lain ('arrived')."
-      },
-      {
-        "question": "The professor, along with his students, ___ attending the conference next week.",
-        "option1": "is",
-        "option2": "are",
-        "option3": "were",
-        "option4": "have been",
-        "answer": "is",
-        "explanation": "Subjek kalimat ini adalah 'the professor' (singular), sehingga kata kerja yang digunakan juga singular ('is')."
-      },
-      {
-        "question": "Neither of the candidates ___ qualified for the position.",
-        "option1": "is",
-        "option2": "are",
-        "option3": "were",
-        "option4": "have been",
-        "answer": "is",
-        "explanation": "'Neither' selalu diikuti oleh kata kerja singular karena merujuk pada satu dari dua hal."
-      },
-      {
-        "question": "The company ___ its employees to work from home since the pandemic began.",
-        "option1": "has allowed",
-        "option2": "allows",
-        "option3": "allowed",
-        "option4": "was allowing",
-        "answer": "has allowed",
-        "explanation": "Kalimat ini menggunakan present perfect tense karena aksi ('allowed') dimulai di masa lalu dan masih berlanjut hingga sekarang."
-      },
-      {
-        "question": "If she ___ harder, she would have passed the exam.",
-        "option1": "studied",
-        "option2": "had studied",
-        "option3": "has studied",
-        "option4": "would study",
-        "answer": "had studied",
-        "explanation": "Kalimat ini menggunakan conditional type 3, di mana 'had studied' digunakan untuk situasi hipotetis di masa lalu."
-      },
-      {
-        "question": "The movie ___ we watched last night was incredibly entertaining.",
-        "option1": "that",
-        "option2": "which",
-        "option3": "what",
-        "option4": "whom",
-        "answer": "that",
-        "explanation": "'That' digunakan sebagai relative pronoun untuk merujuk pada 'movie'."
-      },
-      {
-        "question": "The more you practice, ___ you will become.",
-        "option1": "the better",
-        "option2": "better",
-        "option3": "the best",
-        "option4": "best",
-        "answer": "the better",
-        "explanation": "Struktur yang benar untuk perbandingan bertingkat adalah 'the more... the better'."
-      },
-      {
-        "question": "She is the only one of the students who ___ the assignment on time.",
-        "option1": "has completed",
-        "option2": "have completed",
-        "option3": "completed",
-        "option4": "are completing",
-        "answer": "has completed",
-        "explanation": "Kata 'the only one' menunjukkan singular, sehingga kata kerja yang digunakan juga singular ('has completed')."
-      },
-      {
-        "question": "The report, ___ by the committee, will be published next month.",
-        "option1": "prepared",
-        "option2": "was prepared",
-        "option3": "preparing",
-        "option4": "to prepare",
-        "answer": "prepared",
-        "explanation": "'Prepared' adalah past participle yang digunakan sebagai adjective untuk menjelaskan 'report'."
-      },
-      {
-        "question": "Hardly ___ the door when the phone rang.",
-        "option1": "had she closed",
-        "option2": "she had closed",
-        "option3": "she closed",
-        "option4": "did she close",
-        "answer": "had she closed",
-        "explanation": "Kalimat ini menggunakan inverted structure setelah 'hardly' dan past perfect tense untuk menunjukkan urutan kejadian."
-      }
-  ]
+  {
+    "question": "In 1864 Nevada entered the United States as ____ thirty-sixth state.",
+    "option1": "in the",
+    "option2": "to be the",
+    "option3": "was the",
+    "option4": "the",
+    "answer": "the",
+    "explanation": "'In 1864 Nevada' (subjek). 'entered the United States' (verb + objek). 'as ____ thirty-sixth state' adalah frasa yang menjelaskan status Nevada saat masuk ke Amerika Serikat. Untuk menjawab soal ini, kita perlu melengkapi bagian yang kosong dengan artikel yang tepat sebelum ordinal number ('thirty-sixth'). Frasa tersebut harus menggunakan artikel 'the' karena 'thirty-sixth state' merujuk pada sesuatu yang spesifik. Jadi, jawaban yang tepat adalah d. the."
+  },
+  {
+    "question": "Bob Stephenson, a biologist in Alaska who studies the Canadian lynx, a type of wildcat, has learned ___ from studying their tracks in the snow.",
+    "option1": "how lynx hunt",
+    "option2": "lynx hunt how",
+    "option3": "how hunt lynx",
+    "option4": "lynx how hunt",
+    "answer": "how lynx hunt",
+    "explanation": "'Bob Stephenson' (subjek). 'has learned' (verb). '___ from studying their tracks in the snow' adalah frasa yang menjelaskan apa yang Bob Stephenson pelajari. Untuk menjawab soal ini, kita perlu melengkapi bagian yang kosong dengan klausa tanya yang menjelaskan cara lynx berburu. Frasa tersebut harus menggunakan struktur 'how + subjek + kata kerja'. Jadi, jawaban yang tepat adalah a. how lynx hunt."
+  },
+  {
+    "question": "___ lay eggs, but some give birth to live young.",
+    "option1": "Although most insects",
+    "option2": "Most insects",
+    "option3": "Despite most insects",
+    "option4": "most insects that",
+    "answer": "Most insects",
+    "explanation": "'___ lay eggs' (klausa utama). 'but some give birth to live young' (klausa yang menunjukkan kontras). Untuk menjawab soal ini, kita perlu melengkapi bagian yang kosong dengan subjek yang sesuai untuk klausa utama. Frasa tersebut harus berupa noun phrase yang berfungsi sebagai subjek. Jadi, jawaban yang tepat adalah b. Most insects."
+  },
+  {
+    "question": "Author Sarah Jewett established her literary reputation with Deephaven, a collection of sketches ___.",
+    "option1": "with rural Maine life",
+    "option2": "that life in rural Maine",
+    "option3": "about life in rural Maine",
+    "option4": "life in rural Maine",
+    "answer": "about life in rural Maine",
+    "explanation": "'Author Sarah Jewett' (subjek). 'established her literary reputation with Deephaven' (verb + objek). 'a collection of sketches ___' adalah frasa yang menjelaskan tema atau isi dari sketsa-sketsa tersebut. Untuk menjawab soal ini, kita perlu melengkapi bagian yang kosong dengan frasa yang menunjukkan tema. Frasa tersebut harus menggunakan preposisi 'about' untuk menjelaskan isi. Jadi, jawaban yang tepat adalah c. about life in rural Maine."
+  },
+  {
+    "question": "By means of various types of wind tunnels, ___ simulate most of the flight conditions to which an airplane is subjected.",
+    "option1": "which aeronautical engineers can",
+    "option2": "aeronautical engineers can",
+    "option3": "the ability of aeronautical engineers to",
+    "option4": "aeronautical engineers, being able to",
+    "answer": "aeronautical engineers can",
+    "explanation": "'By means of various types of wind tunnels' (keterangan cara). '___ simulate most of the flight conditions to which an airplane is subjected' (klausa utama). Untuk menjawab soal ini, kita perlu melengkapi bagian yang kosong dengan subjek dan kata kerja yang sesuai. Frasa tersebut harus berupa noun phrase ('aeronautical engineers') dan kata kerja ('can'). Jadi, jawaban yang tepat adalah b. aeronautical engineers can."
+  },
+  {
+    "question": "___ planes in flight between airports, air traffic controllers rely on radar.",
+    "option1": "Tracked",
+    "option2": "Track of",
+    "option3": "To track",
+    "option4": "Of tracking",
+    "answer": "To track",
+    "explanation": "'___ planes in flight between airports' (frasa yang menunjukkan tujuan). 'air traffic controllers rely on radar' (klausa utama). Untuk menjawab soal ini, kita perlu melengkapi bagian yang kosong dengan frasa yang menunjukkan tujuan. Frasa tersebut harus menggunakan infinitive phrase ('to + verb'). Jadi, jawaban yang tepat adalah c. To track."
+  },
+  {
+    "question": "The operating principles of the telephone are ___ they were in the nineteenth century.",
+    "option1": "the same as today",
+    "option2": "the same today",
+    "option3": "the same today as",
+    "option4": "today what the same",
+    "answer": "the same today as",
+    "explanation": "'The operating principles of the telephone' (subjek). 'are ___ they were in the nineteenth century' (klausa yang menunjukkan perbandingan). Untuk menjawab soal ini, kita perlu melengkapi bagian yang kosong dengan frasa yang menunjukkan kesamaan. Frasa tersebut harus menggunakan struktur 'the same... as'. Jadi, jawaban yang tepat adalah c. the same today as."
+  },
+  {
+    "question": "Steel magnate Andrew Carnegie used part of his wealth ___ more than 2500 public libraries in English-speaking countries between 1881 and 1919.",
+    "option1": "helped in building",
+    "option2": "helped him to building",
+    "option3": "to help build",
+    "option4": "his help in building",
+    "answer": "to help build",
+    "explanation": "'Steel magnate Andrew Carnegie' (subjek). 'used part of his wealth' (verb + objek). '___ more than 2500 public libraries in English-speaking countries between 1881 and 1919' adalah frasa yang menunjukkan tujuan. Untuk menjawab soal ini, kita perlu melengkapi bagian yang kosong dengan frasa yang menunjukkan tujuan. Frasa tersebut harus menggunakan infinitive phrase ('to + verb'). Jadi, jawaban yang tepat adalah c. to help build."
+  },
+  {
+    "question": "Not until 1949 ___ Canada's tenth province.",
+    "option1": "became Newfoundland",
+    "option2": "did Newfoundland become",
+    "option3": "Newfoundland did become",
+    "option4": "Newfoundland become",
+    "answer": "did Newfoundland become",
+    "explanation": "'Not until 1949' (keterangan waktu). '___ Canada's tenth province' (klausa utama). Untuk menjawab soal ini, kita perlu melengkapi bagian yang kosong dengan struktur terbalik (inverted structure) karena kalimat dimulai dengan 'not until'. Frasa tersebut harus menggunakan auxiliary verb ('did') + subjek ('Newfoundland') + kata kerja utama ('become'). Jadi, jawaban yang tepat adalah b. did Newfoundland become."
+  },
+  {
+    "question": "Paul Samuelson revolutionized __ by presenting his students with the most advanced economic thinking at an introductory level.",
+    "option1": "to teach economics",
+    "option2": "the teaching of economics",
+    "option3": "teachings that economics is",
+    "option4": "economics is taught",
+    "answer": "the teaching of economics",
+    "explanation": "'Paul Samuelson' (subjek). 'revolutionized' (verb). '__ by presenting his students with the most advanced economic thinking at an introductory level' adalah frasa yang menjelaskan apa yang diubah oleh Paul Samuelson. Untuk menjawab soal ini, kita perlu melengkapi bagian yang kosong dengan objek yang sesuai. Frasa tersebut harus berupa noun phrase. Jadi, jawaban yang tepat adalah b. the teaching of economics."
+  },
+  {
+    "question": "The term belles-lettres is used to denote literary forms that contain___, such as drama, poetry, essays, and novels.",
+    "option1": "artistic, creative writing",
+    "option2": "writing that artistic, creative",
+    "option3": "artistic, creative, and writing",
+    "option4": "them is artistic, creative writing",
+    "answer": "artistic, creative writing",
+    "explanation": "'The term belles-lettres' (subjek). 'is used to denote literary forms that contain___' (verb + objek). 'such as drama, poetry, essays, and novels' adalah contoh dari literary forms. Untuk menjawab soal ini, kita perlu melengkapi bagian yang kosong dengan frasa yang menjelaskan sifat dari literary forms. Frasa tersebut harus berupa adjective phrase. Jadi, jawaban yang tepat adalah a. artistic, creative writing."
+  },
+  {
+    "question": "Open-pit mining follows the same sequence of operations ___ mining: drilling, blasting, and loading and removing waste and ore.",
+    "option1": "where underground",
+    "option2": "that underground",
+    "option3": "as underground",
+    "option4": "in underground",
+    "answer": "as underground",
+    "explanation": "'Open-pit mining' (subjek). 'follows the same sequence of operations' (verb + objek). '___ mining: drilling, blasting, and loading and removing waste and ore' adalah frasa yang menjelaskan perbandingan antara open-pit mining dan jenis mining lainnya. Untuk menjawab soal ini, kita perlu melengkapi bagian yang kosong dengan frasa yang menunjukkan perbandingan. Frasa tersebut harus menggunakan struktur 'the same... as' untuk menunjukkan kesamaan. Jadi, jawaban yang tepat adalah c. as underground."
+  },
+  {
+    "question": "___ in cases where special oxidants are used, fires are the results of a fuel rapidly combining with the oxygen in the air.",
+    "option1": "there are",
+    "option2": "even though",
+    "option3": "how",
+    "option4": "except",
+    "answer": "except",
+    "explanation": "'___ in cases where special oxidants are used' (frasa yang menunjukkan pengecualian). 'fires are the results of a fuel rapidly combining with the oxygen in the air' (klausa utama). Untuk menjawab soal ini, kita perlu melengkapi bagian yang kosong dengan kata yang menunjukkan pengecualian. Frasa tersebut harus menggunakan kata 'except'. Jadi, jawaban yang tepat adalah d. except."
+  },
+  {
+    "question": "Maya Angelou's widely acclaimed autobiography, I Know Why the Caged Bird Sings, is a moving and ___ of her childhood in segregated Arkansas.",
+    "option1": "an account that is often humorous",
+    "option2": "often humorous as an account",
+    "option3": "often humorous, the account",
+    "option4": "often humorous account",
+    "answer": "often humorous account",
+    "explanation": "'Maya Angelou's widely acclaimed autobiography, I Know Why the Caged Bird Sings' (subjek). 'is a moving and ___ of her childhood in segregated Arkansas' (klausa yang menjelaskan sifat autobiografi). Untuk menjawab soal ini, kita perlu melengkapi bagian yang kosong dengan frasa yang sejajar dengan 'moving'. Frasa tersebut harus berupa adjective phrase. Jadi, jawaban yang tepat adalah d. often humorous account."
+  },
+  {
+    "question": "___ to study element 104 because only a few atoms of this substance can be isolated at one time.",
+    "option1": "the difficulty",
+    "option2": "why it is difficult",
+    "option3": "it is difficult",
+    "option4": "even though difficult",
+    "answer": "it is difficult",
+    "explanation": "'___ to study element 104' (klausa utama). 'because only a few atoms of this substance can be isolated at one time' (klausa keterangan). Untuk menjawab soal ini, kita perlu melengkapi bagian yang kosong dengan klausa utama yang menjelaskan kesulitan. Frasa tersebut harus berupa independent clause. Jadi, jawaban yang tepat adalah c. it is difficult."
+  }
+]

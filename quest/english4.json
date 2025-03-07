@@ -1,0 +1,362 @@
+[
+    {
+      "question": "______ range in color from pale yellow to bright orange.",
+      "option1": "(A) Canaries which",
+      "option2": "(B) Canaries",
+      "option3": "(C) That canaries",
+      "option4": "(D) Canaries that are",
+      "answer": "(B) Canaries",
+      "explanation": "Subjek kalimat adalah 'Canaries' (burung kenari). Klausa relatif (which/that) tidak diperlukan karena kalimat lengkap tanpa klausa tambahan. Pilihan (B) adalah subjek langsung dengan predikat 'range'."
+    },
+    {
+      "question": "______ of precious gems is determined by their hardness, color, and brilliance.",
+      "option1": "(A) The valuable",
+      "option2": "(B) It is the value",
+      "option3": "(C) It is valuable",
+      "option4": "(D) The value",
+      "answer": "(D) The value",
+      "explanation": "Subjek kalimat adalah 'The value', predikat 'is determined', dan objeknya adalah faktor penentu. Pilihan (D) tepat karena frasa nominal 'The value' menjadi subjek utuh."
+    },
+    {
+      "question": "______ a tornado spins in a counterclockwise direction in the northern hemisphere, it spins in the opposite direction in the southern hemisphere.",
+      "option1": "(A) However",
+      "option2": "(B) Because of",
+      "option3": "(C) Although",
+      "option4": "(D) That",
+      "answer": "(C) Although",
+      "explanation": "Konjungsi 'Although' menunjukkan kontras antara dua klausa. Struktur: [Although + klausa], [klausa]. Klausa pertama dan kedua bertentangan arah putaran tornado."
+    },
+    {
+      "question": "The Caldecott Medal, ______ for the best children’s picture book, is awarded each January.",
+      "option1": "(A) a prize",
+      "option2": "(B) which prize",
+      "option3": "(C) is a prize which",
+      "option4": "(D) is a prize",
+      "answer": "(A) a prize",
+      "explanation": "Frasa 'a prize' adalah appositive yang menjelaskan 'The Caldecott Medal'. Tidak perlu kata kerja tambahan karena klausa utama sudah memiliki predikat 'is awarded'."
+    },
+    {
+      "question": "The horn of the rhinoceros consists of a cone of tight bundles of keratin ______ from the epidermis.",
+      "option1": "(A) grow",
+      "option2": "(B) grows",
+      "option3": "(C) growing",
+      "option4": "(D) they grow",
+      "answer": "(C) growing",
+      "explanation": "'Growing' adalah participle phrase yang menjelaskan 'keratin'. Struktur: [noun + participle] untuk menunjukkan aksi aktif."
+    },
+    {
+      "question": "Most species of heliotropes are weeds, ______ of them are cultivated.",
+      "option1": "(A) some",
+      "option2": "(B) but some",
+      "option3": "(C) for some species",
+      "option4": "(D) some species",
+      "answer": "(B) but some",
+      "explanation": "Konjungsi 'but' menunjukkan kontras antara 'most are weeds' dan 'some are cultivated'. Struktur kalimat kompleks dengan dua klausa independen."
+    },
+    {
+      "question": "Thunder occurs as ______ through air, causing the heated air to expand and collide with layers of cooler air.",
+      "option1": "(A) an electrical charge",
+      "option2": "(B) passes an electrical charge",
+      "option3": "(C) the passing of an electrical charge",
+      "option4": "(D) an electrical charge passes",
+      "answer": "(C) the passing of an electrical charge",
+      "explanation": "Frasa nominal 'the passing of an electrical charge' menjadi subjek setelah 'as'. Struktur: [as + noun phrase] menjelaskan penyebab thunder."
+    },
+    {
+      "question": "Researchers have long debated ______ Saturn’s moon Titan contains hydrocarbon oceans and lakes.",
+      "option1": "(A) over it",
+      "option2": "(B) whether it",
+      "option3": "(C) whether",
+      "option4": "(D) whether over",
+      "answer": "(C) whether",
+      "explanation": "'Whether' digunakan untuk memperkenalkan klausa objek (debated + whether + klausa). 'It' tidak diperlukan karena klausa sudah lengkap."
+    },
+    {
+      "question": "Nimbostratus clouds are thick, dark grey clouds ______ forebode rain.",
+      "option1": "(A) what",
+      "option2": "(B) which",
+      "option3": "(C) what they",
+      "option4": "(D) which they",
+      "answer": "(B) which",
+      "explanation": "'Which' adalah relative pronoun yang merujuk ke 'clouds' dan menjadi subjek klausa relatif 'which forebode rain'."
+    },
+    {
+      "question": "______ in several early civilizations, a cubit was based on the length of the forearm from the tip of the middle finger to the elbow.",
+      "option1": "(A) It was used as a measurement",
+      "option2": "(B) A measurement was used",
+      "option3": "(C) The use of a measurement",
+      "option4": "(D) Used as a measurement",
+      "answer": "(D) Used as a measurement",
+      "explanation": "'Used as a measurement' adalah participle phrase yang menerangkan 'a cubit'. Struktur: [Participle phrase], [main clause]."
+    },
+    {
+      "question": "Only when air and water seep through its outer coat",
+      "option1": "(A) does a seed germinate",
+      "option2": "(B) to the germination of a seed",
+      "option3": "(C) a seed germinates",
+      "option4": "(D) for a seed to germinate",
+      "answer": "(A) does a seed germinate",
+      "explanation": "Struktur inversi setelah 'Only when'. Klausa utama memerlukan auxilary verb 'does' sebelum subjek 'a seed'."
+    },
+    {
+      "question": "______ seasonal rainfall, especially in regions near the tropics, is winds that blow in an opposite direction in winter than in summer.",
+      "option1": "(A) Causing",
+      "option2": "(B) That cause",
+      "option3": "(C) To cause",
+      "option4": "(D) What causes",
+      "answer": "(D) What causes",
+      "explanation": "'What causes' sebagai subjek klausa nominal. Struktur: [What causes X] + [is Y]. 'What' merujuk pada penyebab hujan musiman."
+    },
+    {
+      "question": "The extinct Martian volcano Olympus Mons is approximately three times as ______ Mount Everest.",
+      "option1": "(A) high",
+      "option2": "(B) high as is",
+      "option3": "(C) higher than",
+      "option4": "(D) the highest of",
+      "answer": "(B) high as is",
+      "explanation": "Pola perbandingan 'as...as'. Struktur: [three times as high as] + objek perbandingan (Mount Everest)."
+    },
+    {
+      "question": "The flight instructor, ______ at the air base, said that orders not to fight had been given.",
+      "option1": "(A) when interviewed",
+      "option2": "(B) when he interviewed",
+      "option3": "(C) when his interview",
+      "option4": "(D) when interviewing",
+      "answer": "(A) when interviewed",
+      "explanation": "'When interviewed' adalah reduced clause dari 'when he was interviewed'. Struktur pasif untuk menyatakan waktu."
+    },
+    {
+      "question": "In the northern and central parts of the state of Idaho ______ and churning rivers.",
+      "option1": "(A) majestic mountains are found",
+      "option2": "(B) found majestic mountains",
+      "option3": "(C) are found majestic mountains",
+      "option4": "(D) finding majestic mountains",
+      "answer": "(C) are found majestic mountains",
+      "explanation": "Inversi subjek-verb setelah preposisi tempat. Struktur: [Preposisi + verb + subjek]. Subjek: 'majestic mountains and churning rivers'."
+    },
+    {
+        "question": "<u>Light</u> can <u>travels</u> from the Sun to the Earth <u>in</u> eight minutes and twenty <u>seconds</u>.",
+        "option1": "a. Light",
+        "option2": "b. Travels",
+        "option3": "c. In",
+        "option4": "d. Seconds",
+        "answer": "b. Travels",
+        "explanation": "Kesalahan pada 'travels' (B): setelah modal 'can', kata kerja harus dalam bentuk base verb. Seharusnya: 'travel'."
+    },
+    {
+        "question": "Every human <u>typically</u> <u>have</u> twenty-three pairs of chromosomes in <u>most<u/> <u>cells<u/>.",
+        "option1": "a. Typically",
+        "option2": "b. Have",
+        "option3": "c. Most",
+        "option4": "d. Cells",
+        "answer": "b. Have",
+        "explanation": "Kesalahan pada 'have' (B): subjek 'Every human' adalah tunggal, sehingga kata kerja yang tepat adalah 'has'."
+    },
+    {
+        "question": "<u>Most</u> sedimentary rocks <u>start forming</u> when grains of clay, silt, or <u>sandy</u> settle in river valleys <u>or on</u> the bottoms of lakes and oceans.",
+        "option1": "a. Most",
+        "option2": "b. Start forming",
+        "option3": "c. Sandy",
+        "option4": "d. Or in",
+        "answer": "c. Sandy",
+        "explanation": "Kesalahan pada 'sandy' (C): kata sifat tidak sesuai dalam konteks ini. Seharusnya: 'sand' (kata benda untuk paralel dengan 'clay' dan 'silt')."
+    },
+    {
+        "question": "The total thickness of the ventricular <u>walls</u> of the heart <u>are</u> <u>about</u> three times <u>that</u> of the atria.",
+        "option1": "a. Walls",
+        "option2": "b. Are",
+        "option3": "c. About",
+        "option4": "d. That",
+        "answer": "b. Are",
+        "explanation": "Kesalahan pada 'are' (B): subjek 'total thickness' adalah tunggal, sehingga kata kerja yang tepat adalah 'is'."
+    },
+    {
+        "question": "The type of jazz <u>known</u> as 'swing' was <u>introduced</u> by Duke Ellington when <u>he</u> wrote and <u>records</u> 'It Don’t Mean a Thing If It Ain't Got Swing'.",
+        "option1": "a. Known",
+        "option2": "b. Introduced",
+        "option3": "c. he",
+        "option4": "d. records",
+        "answer": "d. Records",
+        "explanation": "Kesalahan pada 'records' (D): bentuk present tense tidak sesuai dengan konteks past tense. Seharusnya: 'recorded'."
+    },
+    {
+        "question": "The bones of mammals, not <u>alike</u> <u>those</u> of <u>other</u> vertebrates, show a high degree of <u>differentiation</u>.",
+        "option1": "a. Alike",
+        "option2": "b. Those",
+        "option3": "c. Other",
+        "option4": "d. Differentiation",
+        "answer": "a. Alike",
+        "explanation": "Kesalahan pada 'alike' (A): kata 'alike' tidak tepat dalam konteks perbandingan. Seharusnya: 'unlike'."
+    },
+    {
+        "question": "<u>The</u> neocortex has <u>evolved</u> more recently <u>then</u> <u>other</u> layers of the brain.",
+        "option1": "a. The",
+        "option2": "b. evolved",
+        "option3": "c. Then",
+        "option4": "d. Other",
+        "answer": "c. Then",
+        "explanation": "Kesalahan pada 'then' (C): kata 'then' digunakan untuk waktu, sedangkan yang dimaksud adalah perbandingan. Seharusnya: 'than'."
+    },
+    {
+        "question": "The United States <u>receives</u> a large <u>amount</u> of revenue from <u>taxation</u> <u>of a</u> tobacco products.",
+        "option1": "a. Receives",
+        "option2": "b. Amount",
+        "option3": "c. Taxation",
+        "option4": "d. Of a",
+        "answer": "d. Of a",
+        "explanation": "Kesalahan pada 'of a' (D): artikel 'a' tidak diperlukan karena 'tobacco products' adalah kata benda jamak. Seharusnya: 'of'."
+    },
+    {
+        "question": "<u>Much</u> fats are composed of one molecule of glycerin <u>combined with</u> three molecules of <u>fatty</u> <u>acids</u>.",
+        "option1": "a. Much",
+        "option2": "b. Combined with",
+        "option3": "c. Fatty",
+        "option4": "d. Acids",
+        "answer": "a. Much",
+        "explanation": "Kesalahan pada 'Much' (A): 'Much' digunakan untuk uncountable nouns, sedangkan 'fats' adalah countable. Seharusnya: 'Many'."
+    },
+    {
+        "question": "The <u>capital</u> of the Confederacy was <u>originally</u> in Mobile, but <u>they were</u> <u>moved</u> to Richmond.",
+        "option1": "a. Capital",
+        "option2": "b. Originally",
+        "option3": "c. They were",
+        "option4": "d. Moved",
+        "answer": "c. They were",
+        "explanation": "Kesalahan pada 'they were' (C): subjek 'capital' adalah tunggal, sehingga kata ganti yang tepat adalah 'it was'. Seharusnya: 'it was'."
+    },
+    {
+        "question": "A pearl develops <u>when</u> a tiny grain of sand or stone or some <u>another</u> <u>irritant</u> accidentally <u>enters into</u> the shell of a pearl oyster.",
+        "option1": "a. When",
+        "option2": "b. Another",
+        "option3": "c. Irritant",
+        "option4": "d. Enters into",
+        "answer": "b. Another",
+        "explanation": "Kesalahan pada 'another' (B): 'another' digunakan untuk singular, sedangkan konteksnya adalah plural. Seharusnya: 'other'."
+    },
+    {
+        "question": "The English horn is <u>an alto</u> oboe with a <u>pitch</u> one-fifth lower <u>than</u> <u>the</u> soprano oboe.",
+        "option1": "a. An alto",
+        "option2": "b. pitch",
+        "option3": "c. Than",
+        "option4": "d. The",
+        "answer": "d. No error",
+        "explanation": "Tidak ada kesalahan dalam kalimat ini."
+    },
+    {
+        "question": "In the Milky Way galaxy, the <u>most</u> <u>recent</u> observed supernova <u>appeared</u> <u>in</u> 1604.",
+        "option1": "a. Most",
+        "option2": "b. Recent",
+        "option3": "c. Appeared",
+        "option4": "d. In",
+        "answer": "b. Recent",
+        "explanation": "Kesalahan pada 'recent' (B): posisi kata tidak tepat. Seharusnya: 'most recently observed'."
+    },
+    {
+        "question": "Never in the history of <u>humanity</u> <u>has</u> there been more people <u>living</u> on this <u>relatively</u> small planet.",
+        "option1": "a. Humanity",
+        "option2": "b. Has",
+        "option3": "c. Living",
+        "option4": "d. Relatively",
+        "answer": "b. Has",
+        "explanation": "Kesalahan pada 'has' (B): subjek 'people' adalah plural, sehingga kata kerja yang tepat adalah 'have'. Seharusnya: 'have'."
+    },
+    {
+        "question": "Because of the <u>mobility</u> of Americans today, it is <u>difficult</u> for <u>they</u> to put down <u>real roots</u>.",
+        "option1": "a. Mobility",
+        "option2": "b. Difficult",
+        "option3": "c. They",
+        "option4": "d. Real roots",
+        "answer": "c. They",
+        "explanation": "Kesalahan pada 'they' (C): kata ganti objek yang tepat adalah 'them'. Seharusnya: 'them'."
+    },
+    {
+        "question": "<u>For</u> five years after the Civil War, Robert E. Lee served <u>to</u> president of Washington College, <u>which</u> was <u>later</u> called Washington and Lee.",
+        "option1": "a. For",
+        "option2": "b. To",
+        "option3": "c. Which",
+        "option4": "d. Later",
+        "answer": "b. To",
+        "explanation": "Kesalahan pada 'to' (B): preposisi yang tepat adalah 'as'. Seharusnya: 'as'."
+    },
+    {
+        "question": "The <u>number</u> of wild horses on Assateague <u>is</u> increasing lately, <u>resulting</u> in overgrazed marsh and dune <u>grasses</u>.",
+        "option1": "a. Number",
+        "option2": "b. Is",
+        "option3": "c. Resulting",
+        "option4": "d. Grasses",
+        "answer": "d. No error",
+        "explanation": "Tidak ada kesalahan dalam kalimat ini."
+    },
+    {
+        "question": "<u>Hypnoses</u> was <u>successfully</u> used <u>during</u> World War II to treat <u>battle fatigue</u>.",
+        "option1": "a. Hypnoses",
+        "option2": "b. Successfully",
+        "option3": "c. During",
+        "option4": "d. Battle fatigue",
+        "answer": "a. Hypnoses",
+        "explanation": "Kesalahan pada 'Hypnoses' (A): bentuk jamak tidak tepat. Seharusnya: 'Hypnosis' (bentuk tunggal)."
+    },
+    {
+        "question": "The lobster, <u>like</u> <u>many</u> crustaceans, can cast off a <u>damaging</u> appendage and regenerate a new appendage to nearly <u>normal</u> size.",
+        "option1": "a. Like",
+        "option2": "b. Many",
+        "option3": "c. Damaging",
+        "option4": "d. Normal",
+        "answer": "d. No error",
+        "explanation": "Tidak ada kesalahan dalam kalimat ini."
+    },
+    {
+        "question": "Humans <u>develop normally</u> twenty <u>primary</u>, <u>or</u> deciduous, teeth and thirty-two <u>permanent</u> ones.",
+        "option1": "a. Develop normally",
+        "option2": "b. Primary",
+        "option3": "c. Or",
+        "option4": "d. Permanent",
+        "answer": "a. Develop normally",
+        "explanation": "Kesalahan pada 'develop normally' (A): urutan kata tidak tepat. Seharusnya: 'normally develop'."
+    },
+    {
+        "question": "<u>The</u> curricula of American public schools <u>are</u> set in individual states; they <u>do not determine</u> by the <u>federal</u> government.",
+        "option1": "a. The",
+        "option2": "b. Are",
+        "option3": "c. Do not determine",
+        "option4": "d. Federal",
+        "answer": "c. Do not determine",
+        "explanation": "Kesalahan pada 'do not determine' (C): bentuk aktif tidak sesuai. Seharusnya: 'are not determined' (bentuk pasif)."
+    },
+    {
+        "question": "The fact that the sophisticated technology <u>has become</u> part of <u>revolution</u> in travel <u>delivery</u> systems has not made travel schedules <u>less</u> hectic.",
+        "option1": "a. Has become",
+        "option2": "b. Revolution",
+        "option3": "c. Delivery",
+        "option4": "d. Less",
+        "answer": "b. Revolution",
+        "explanation": "Kesalahan pada 'revolution' (B): kurang artikel. Seharusnya: 'a revolution'."
+    },
+    {
+        "question": "Balanchine's <u>plotless</u> ballets, <u>such</u> Jewels and The Four Temperaments, <u>present</u> dance <u>purely</u> as a celebration of the movement of the human body.",
+        "option1": "a. Plotless",
+        "option2": "b. Such",
+        "option3": "c. Present",
+        "option4": "d. Purely",
+        "answer": "b. Such",
+        "explanation": "Kesalahan pada 'such' (B): kurang kata 'as'. Seharusnya: 'such as'."
+    },
+    {
+        "question": "In a <u>solar battery</u>, a photosensitive <u>semiconducting</u> substance <u>such as</u> silicon crystal is the source of <u>electrician</u>.",
+        "option1": "a. Solar battery",
+        "option2": "b. Semiconducting",
+        "option3": "c. Such as",
+        "option4": "d. Electrician",
+        "answer": "d. Electrician",
+        "explanation": "Kesalahan pada 'electrician' (D): kata tidak tepat. Seharusnya: 'electricity'."
+    },
+    {
+        "question": "<u>In early days</u>, hydrochloric acid was <u>done</u> by <u>heating</u> a mixture of sodium chloride <u>with</u> iron sulfate.",
+        "option1": "a. In early days",
+        "option2": "b. Done",
+        "option3": "c. Heating",
+        "option4": "d. With",
+        "answer": "b. Done",
+        "explanation": "Kesalahan pada 'done' (B): kata tidak tepat. Seharusnya: 'produced'."
+    }    
+]

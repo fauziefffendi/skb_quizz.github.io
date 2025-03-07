@@ -59,8 +59,8 @@
       "option2": "(B) passes an electrical charge",
       "option3": "(C) the passing of an electrical charge",
       "option4": "(D) an electrical charge passes",
-      "answer": "(C) the passing of an electrical charge",
-      "explanation": "Frasa nominal 'the passing of an electrical charge' menjadi subjek setelah 'as'. Struktur: [as + noun phrase] menjelaskan penyebab thunder."
+      "answer": "(D) an electrical charge passes",
+      "explanation": "
     },
     {
       "question": "Researchers have long debated ______ Saturn’s moon Titan contains hydrocarbon oceans and lakes.",
@@ -90,7 +90,7 @@
       "explanation": "'Used as a measurement' adalah participle phrase yang menerangkan 'a cubit'. Struktur: [Participle phrase], [main clause]."
     },
     {
-      "question": "Only when air and water seep through its outer coat",
+      "question": "Only when air and water seep through its outer coat ____",
       "option1": "(A) does a seed germinate",
       "option2": "(B) to the germination of a seed",
       "option3": "(C) a seed germinates",
@@ -239,7 +239,7 @@
         "option2": "b. pitch",
         "option3": "c. Than",
         "option4": "d. The",
-        "answer": "d. No error",
+        "answer": "d. Harusnya That bukan The",
         "explanation": "Tidak ada kesalahan dalam kalimat ini."
     },
     {
@@ -302,8 +302,8 @@
         "option2": "b. Many",
         "option3": "c. Damaging",
         "option4": "d. Normal",
-        "answer": "d. No error",
-        "explanation": "Tidak ada kesalahan dalam kalimat ini."
+        "answer": "c. Damaginf",
+        "explanation": "Harusnya damage bukan damaging."
     },
     {
         "question": "Humans <u>develop normally</u> twenty <u>primary</u>, <u>or</u> deciduous, teeth and thirty-two <u>permanent</u> ones.",
@@ -357,6 +357,6 @@
         "option3": "c. Heating",
         "option4": "d. With",
         "answer": "b. Done",
-        "explanation": "Kesalahan pada 'done' (B): kata tidak tepat. Seharusnya: 'produced'."
+        "explanation": "Kesalahan pada 'done' (B): kata tidak tepat. Seharusnya: 'made'."
     }    
 ]

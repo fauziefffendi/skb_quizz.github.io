@@ -1,0 +1,362 @@
+[
+    {
+        "question": "1. --- fall naturally into two classes, which can be further subdivided into several subclasses.",
+        "option1": "(A) There are vitamins",
+        "option2": "(B) Vitamins that",
+        "option3": "(C) Vitamins",
+        "option4": "(D) After vitamins",
+        "answer": "(C) Vitamins",
+        "explanation": "Kalimat ini memerlukan subjek untuk klausa utama. 'Vitamins' adalah subjek yang tepat karena kalimat tersebut membicarakan tentang vitamin yang terbagi menjadi dua kelas."
+    },
+    {
+        "question": "2. The incidence of anorexia nervosa, ---, is growing in industrially advanced societies.",
+        "option1": "(A) is an eating disorder",
+        "option2": "(B) an eating disorder which",
+        "option3": "(C) an eating disorder",
+        "option4": "(D) for which an eating disorder",
+        "answer": "(C) an eating disorder",
+        "explanation": "Bagian yang rumpang memerlukan appositive untuk menjelaskan 'anorexia nervosa'. 'An eating disorder' adalah appositive yang tepat."
+    },
+    {
+        "question": "3. In the 1960s, pop art --- to discover artistic significance in the commercial artifacts of the consumer culture.",
+        "option1": "(A) seeking",
+        "option2": "(B) to seek",
+        "option3": "(C) has sought",
+        "option4": "(D) sought",
+        "answer": "(D) sought",
+        "explanation": "Kalimat ini memerlukan kata kerja dalam bentuk past tense untuk menyatakan tindakan yang terjadi di masa lalu. 'Sought' adalah bentuk past tense dari 'seek'."
+    },
+    {
+        "question": "4. Air --- the carbon dioxide necessary for photosynthesis enters leaves through tiny surface openings.",
+        "option1": "(A) contains",
+        "option2": "(B) contained",
+        "option3": "(C) containing",
+        "option4": "(D) it contains",
+        "answer": "(C) containing",
+        "explanation": "Bagian yang rumpang memerlukan participle phrase untuk menjelaskan 'air'. 'Containing' adalah participle yang tepat."
+    },
+    {
+        "question": "5. Overexposure to the sun can produce --- can some toxic chemicals.",
+        "option1": "(A) more than damage to the skin",
+        "option2": "(B) more damage than to the skin",
+        "option3": "(C) damage more than to the skin",
+        "option4": "(D) more damage to the skin than",
+        "answer": "(D) more damage to the skin than",
+        "explanation": "Kalimat ini memerlukan struktur perbandingan yang tepat. 'More damage to the skin than' adalah struktur yang benar untuk membandingkan efek overexposure dengan efek bahan kimia beracun."
+    },
+    {
+        "question": "6. The Federal Reserve System, --- under President Wilson, plays a key role in regulating the U.S. economy.",
+        "option1": "(A) the establishment in 1913",
+        "option2": "(B) was established in 1913",
+        "option3": "(C) established in 1913",
+        "option4": "(D) in 1913 they established it",
+        "answer": "(C) established in 1913",
+        "explanation": "Bagian yang rumpang memerlukan participle phrase untuk memberikan informasi tambahan tentang 'The Federal Reserve System'. 'Established in 1913' adalah participle phrase yang tepat."
+    },
+    {
+        "question": "7. In the 1960s, due in part to the invention of air conditioning, the population of the United States --- a dramatic geographical shift southward.",
+        "option1": "(A) experiencing",
+        "option2": "(B) was experienced",
+        "option3": "(C) to experience",
+        "option4": "(D) experienced",
+        "answer": "(D) experienced",
+        "explanation": "Kalimat ini memerlukan kata kerja dalam bentuk past tense untuk menyatakan tindakan yang terjadi di masa lalu. 'Experienced' adalah bentuk past tense dari 'experience'."
+    },
+    {
+        "question": "8. Antarctica is larger ---, but it has no native human population.",
+        "option1": "(A) than Europe or Australia does",
+        "option2": "(B) Europe or Australia",
+        "option3": "(C) of Europe or Australia",
+        "option4": "(D) than Europe or Australia",
+        "answer": "(D) than Europe or Australia",
+        "explanation": "Kalimat ini memerlukan struktur perbandingan yang tepat. 'Than Europe or Australia' adalah struktur yang benar untuk membandingkan ukuran Antartika dengan Eropa atau Australia."
+    },
+    {
+        "question": "9. Whole-grain food products ---in most large supermarkets across the United States and Canada.",
+        "option1": "(A) now can purchase",
+        "option2": "(B) can now be purchased",
+        "option3": "(C) now to purchase",
+        "option4": "(D) the purchase of which",
+        "answer": "(B) can now be purchased",
+        "explanation": "Kalimat ini memerlukan struktur pasif untuk menyatakan bahwa produk makanan dapat dibeli. 'Can now be purchased' adalah struktur pasif yang tepat."
+    },
+    {
+        "question": "10. A dividend is --- the only benefit a corporation can offer its shareholders.",
+        "option1": "(A) no",
+        "option2": "(B) nor",
+        "option3": "(C) none",
+        "option4": "(D) not",
+        "answer": "(D) not",
+        "explanation": "Kalimat ini memerlukan negasi untuk menyatakan bahwa dividen bukan satu-satunya manfaat. 'Not' adalah negasi yang tepat."
+    },
+    {
+        "question": "11. ---all citrus fruit originated with the Chinese orange.",
+        "option1": "(A) That the belief",
+        "option2": "(B) The belief that",
+        "option3": "(C) To believe that",
+        "option4": "(D) It is believed that",
+        "answer": "(D) It is believed that",
+        "explanation": "Kalimat ini memerlukan struktur yang menyatakan kepercayaan umum. 'It is believed that' adalah struktur yang tepat untuk menyatakan kepercayaan umum."
+    },
+    {
+        "question": "12. The year 1732 saw the first appearance of Poor Richard's Almanac, --- Benjamin Franklin created the character of Poor Richard.",
+        "option1": "(A) there",
+        "option2": "(B) in which",
+        "option3": "(C) in it",
+        "option4": "(D) which in",
+        "answer": "(B) in which",
+        "explanation": "Bagian yang rumpang memerlukan relative clause untuk memberikan informasi tambahan tentang 'Poor Richard's Almanac'. 'In which' adalah relative clause yang tepat."
+    },
+    {
+        "question": "13. --- more susceptible to bacterial contamination than other types of meat because it has more surface area exposed to bacteria laden air.",
+        "option1": "(A) Ground meat",
+        "option2": "(B) Ground meat is",
+        "option3": "(C) Ground meat that is",
+        "option4": "(D) Ground meat being",
+        "answer": "(B) Ground meat is",
+        "explanation": "Kalimat ini memerlukan subjek dan kata kerja untuk membentuk klausa utama. 'Ground meat is' adalah subjek dan kata kerja yang tepat."
+    },
+    {
+        "question": "14. Over the past several decades, radio telescopes ---of the universe from the one disclosed by ordinary telescopes.",
+        "option1": "(A) have given scientists quite a different view",
+        "option2": "(B) have quite a different view given scientists",
+        "option3": "(C) quite a different view have given scientists",
+        "option4": "(D) have they given scientists quite a different view",
+        "answer": "(A) have given scientists quite a different view",
+        "explanation": "Kalimat ini memerlukan struktur kalimat yang benar untuk menyatakan apa yang telah diberikan oleh teleskop radio. 'Have given scientists quite a different view' adalah struktur yang tepat."
+    },
+    {
+        "question": "15. Nestled along the shoreline of Hudson Bay ---.",
+        "option1": "(A) are several recently settled Inuit communities",
+        "option2": "(B) several recently settled Inuit communities are there",
+        "option3": "(C) near several recently settled Inuit communities",
+        "option4": "(D) is where several recently settled Inuit communities",
+        "answer": "(A) are several recently settled Inuit communities",
+        "explanation": "Kalimat ini memerlukan struktur kalimat yang benar untuk menyatakan lokasi komunitas Inuit. 'Are several recently settled Inuit communities' adalah struktur yang tepat."
+    },
+    {
+        "question": "16. The field cricket is <u>quite</u> <u>injury</u> to crops and <u>vegetation</u> and does most of its <u>harmful</u> work at night.",
+        "option1": "a. quite",
+        "option2": "b. injury",
+        "option3": "c. vegetation",
+        "option4": "d. harmful",
+        "answer": "b. injury",
+        "explanation": "Kata 'injury' seharusnya diganti dengan 'injurious' karena diperlukan kata sifat untuk menjelaskan sifat dari 'field cricket'."
+    },
+    {
+        "question": "17. Perhaps the <u>most</u> <u>unique</u> thing about carbon atoms <u>are</u> their ability to combine with <u>themselves</u>.",
+        "option1": "a. most",
+        "option2": "b. unique",
+        "option3": "c. are",
+        "option4": "d. themselves",
+        "answer": "b. unique",
+        "explanation": "Kata 'unique' tidak memerlukan kata 'most' karena 'unique' sudah berarti satu-satunya."
+    },
+    {
+        "question": "18. <u>Works</u> <u>wrote</u> by Vladimir Nabokov <u>often</u> contain heroes and heroines who have lived in <u>many</u> places.",
+        "option1": "a. Works",
+        "option2": "b. wrote",
+        "option3": "c. often",
+        "option4": "d. many",
+        "answer": "b. wrote",
+        "explanation": "Kata 'wrote' seharusnya diganti dengan 'written' karena diperlukan bentuk past participle untuk kalimat pasif."
+    },
+    {
+        "question": "19. Organisms and their cells live by maintaining a constant exchange of <u>elemental</u>, <u>ions</u>, <u>minerals</u>, and <u>gases</u>.",
+        "option1": "a. elemental",
+        "option2": "b. ions",
+        "option3": "c. minerals",
+        "option4": "d. gases",
+        "answer": "a. elemental",
+        "explanation": "Kata 'elemental' seharusnya diganti dengan 'elements' karena diperlukan kata benda untuk menyebutkan jenis-jenis yang dipertukarkan."
+    },
+    {
+        "question": "20. For the past few years, researchers have <u>perfecting</u> their control over the <u>movements</u> of cells and microbes by using <u>low-power</u> laser beams.",
+        "option1": "a. perfecting",
+        "option2": "b. movements",
+        "option3": "c. low-power",
+        "option4": "d. using",
+        "answer": "a. perfecting",
+        "explanation": "Kata 'perfecting' seharusnya diganti dengan 'perfected' karena diperlukan bentuk past participle untuk present perfect tense."
+    },
+    {
+        "question": "21. The mountain sheep is known for its incredible agility, <u>timid</u>, and ability to withstand <u>severe</u> cold.",
+        "option1": "a. mountain",
+        "option2": "b. timid",
+        "option3": "c. ability",
+        "option4": "d. severe",
+        "answer": "b. timid",
+        "explanation": "Kata 'timid' seharusnya diganti dengan 'timidity' karena diperlukan kata benda untuk menyebutkan sifat yang dimiliki oleh 'mountain sheep'."
+    },
+    {
+        "question": "22. The chimpanzee possesses <u>hand tool</u>, the sticky termite stick, with which it digs termites out of <u>logs</u> and <u>stumps</u>.",
+        "option1": "a. possesses",
+        "option2": "b. hand tool",
+        "option3": "c. logs",
+        "option4": "d. stumps",
+        "answer": "b. hand tool",
+        "explanation": "Kata 'hand tool' seharusnya diganti dengan 'a hand tool' karena diperlukan artikel 'a' untuk menunjukkan bahwa itu adalah satu alat."
+    },
+    {
+        "question": "23. The different layers of the Grand Canyon contain a variety of fossils, including algae and seaweed from early <u>historically</u> periods.",
+        "option1": "a. different",
+        "option2": "b. historically",
+        "option3": "c. including",
+        "option4": "d. periods",
+        "answer": "b. historically",
+        "explanation": "Kata 'historically' seharusnya diganti dengan 'historical' karena diperlukan kata sifat untuk menjelaskan kata benda 'periods'."
+    },
+    {
+        "question": "24. The United States government <u>use</u> price supports and cost subsidies to raise farm prices and <u>profits</u>.",
+        "option1": "a. government",
+        "option2": "b. use",
+        "option3": "c. supports",
+        "option4": "d. profits",
+        "answer": "b. use",
+        "explanation": "Kata 'use' seharusnya diganti dengan 'uses' karena subjek 'The United States government' adalah singular dan memerlukan kata kerja yang sesuai."
+    },
+    {
+        "question": "25. The basic factors that enhance health and longevity include vigorous exercise, <u>hereditary</u>, and <u>diet</u>.",
+        "option1": "a. basic",
+        "option2": "b. hereditary",
+        "option3": "c. vigorous",
+        "option4": "d. diet",
+        "answer": "b. hereditary",
+        "explanation": "Kata 'hereditary' seharusnya diganti dengan 'heredity' karena diperlukan kata benda untuk menyebutkan faktor yang memengaruhi kesehatan dan umur panjang."
+    },
+    {
+        "question": "26. Fission tracking is a new artifact dating method <u>who</u> promises to have important archeological applications in the future.",
+        "option1": "a. Fission",
+        "option2": "b. who",
+        "option3": "c. promises",
+        "option4": "d. applications",
+        "answer": "b. who",
+        "explanation": "Kata 'who' seharusnya diganti dengan 'that' karena 'who' digunakan untuk orang, sedangkan 'that' digunakan untuk benda."
+    },
+    {
+        "question": "27. Biologically produced ceramics, <u>alike</u> those made by mollusks such as the sea urchin, remain superior to those produced <u>synthetically</u>.",
+        "option1": "a. Biologically",
+        "option2": "b. alike",
+        "option3": "c. remain",
+        "option4": "d. synthetically",
+        "answer": "b. alike",
+        "explanation": "Kata 'alike' seharusnya diganti dengan 'like' karena 'like' digunakan untuk membandingkan, sedangkan 'alike' digunakan setelah kata kerja."
+    },
+    {
+        "question": "28. Contemporary poet James Merrill writes autobiographical verse that <u>building</u> on remembrances of his <u>childhood</u>.",
+        "option1": "a. Contemporary",
+        "option2": "b. building",
+        "option3": "c. remembrances",
+        "option4": "d. childhood",
+        "answer": "b. building",
+        "explanation": "Kata 'building' seharusnya diganti dengan 'builds' karena diperlukan kata kerja dalam bentuk present tense untuk menyatakan kebiasaan."
+    },
+    {
+        "question": "29. Many New England farmers supplement their incomes with the <u>sold</u> of maple syrup tapped from sugar maples growing on their <u>farmland</u>.",
+        "option1": "a. Many",
+        "option2": "b. sold",
+        "option3": "c. tapped",
+        "option4": "d. farmland",
+        "answer": "b. sold",
+        "explanation": "Kata 'sold' seharusnya diganti dengan 'sale' karena diperlukan kata benda untuk menyebutkan aktivitas penjualan."
+    },
+    {
+        "question": "30. When <u>attempt</u> to explain children's food preferences, researchers are faced with <u>contradictions</u>.",
+        "option1": "a. When",
+        "option2": "b. attempt",
+        "option3": "c. explain",
+        "option4": "d. contradictions",
+        "answer": "b. attempt",
+        "explanation": "Kata 'attempt' seharusnya diganti dengan 'attempting' karena diperlukan bentuk present participle untuk menyatakan tindakan yang sedang dilakukan."
+    },
+    {
+        "question": "31. Glaciologists now suspect that the Antarctic ice sheet <u>unstable is</u>, but they are not yet certain to what extent this instability might cause <u>problems</u>.",
+        "option1": "a. suspect",
+        "option2": "b. unstable is",
+        "option3": "c. extent",
+        "option4": "d. problems",
+        "answer": "b. unstable is",
+        "explanation": "Kata 'unstable is' seharusnya diganti dengan 'is unstable' karena urutan kata yang benar dalam bahasa Inggris adalah subjek + kata kerja + pelengkap."
+    },
+    {
+        "question": "32. Human infants are not usually able to walk <u>by selves</u> until they reach eleven or twelve months of <u>age</u>.",
+        "option1": "a. Human",
+        "option2": "b. by selves",
+        "option3": "c. reach",
+        "option4": "d. age",
+        "answer": "b. by selves",
+        "explanation": "Kata 'by selves' seharusnya diganti dengan 'by themselves' karena 'themselves' adalah bentuk refleksif yang benar untuk 'they'."
+    },
+    {
+        "question": "33. Scholars of historical change <u>feels</u> that the velocity of history has been greatly accelerated by the onward rush of science and technology during the twentieth <u>century</u>.",
+        "option1": "a. Scholars",
+        "option2": "b. feels",
+        "option3": "c. velocity",
+        "option4": "d. century",
+        "answer": "b. feels",
+        "explanation": "Kata 'feels' seharusnya diganti dengan 'feel' karena subjek 'Scholars' adalah plural dan memerlukan kata kerja yang sesuai."
+    },
+    {
+        "question": "34. Psychologists and psychiatrists are trained to encourage their patients to talk <u>for</u> the things that are causing them <u>difficulty</u>.",
+        "option1": "a. Psychologists",
+        "option2": "b. for",
+        "option3": "c. causing",
+        "option4": "d. difficulty",
+        "answer": "b. for",
+        "explanation": "Kata 'for' seharusnya diganti dengan 'about' karena 'talk about' adalah frasa yang benar untuk menyatakan topik pembicaraan."
+    },
+    {
+        "question": "35. Food contamination is monitored by the Food and Drug Administration, which periodically conducts <u>controlled strictly</u> inspections of <u>foodstuffs</u>.",
+        "option1": "a. monitored",
+        "option2": "b. controlled strictly",
+        "option3": "c. conducts",
+        "option4": "d. foodstuffs",
+        "answer": "b. controlled strictly",
+        "explanation": "Kata 'controlled strictly' seharusnya diganti dengan 'strictly controlled' karena urutan kata yang benar adalah adverb + adjective."
+    },
+    {
+        "question": "36. From the time he was a child, author Herman Melville had <u>a interest</u> in the <u>sea</u>.",
+        "option1": "a. From",
+        "option2": "b. a interest",
+        "option3": "c. in",
+        "option4": "d. sea",
+        "answer": "b. a interest",
+        "explanation": "Kata 'a interest' seharusnya diganti dengan 'an interest' karena 'interest' dimulai dengan huruf vokal dan memerlukan artikel 'an'."
+    },
+    {
+        "question": "37. Booker T. Washington, head of the first industrial school for African Americans, was as popular with Southerners <u>than</u> he was with <u>Northerners</u>.",
+        "option1": "a. head",
+        "option2": "b. than",
+        "option3": "c. was",
+        "option4": "d. with",
+        "answer": "b. than",
+        "explanation": "Kata 'than' seharusnya diganti dengan 'as' karena struktur perbandingan yang benar adalah 'as...as'."
+    },
+    {
+        "question": "38. Peacocks are among the most exotic birds in nature; <u>its</u> long tail feathers fan out to reveal a profusion of <u>vivid</u> colors.",
+        "option1": "a. Peacocks",
+        "option2": "b. its",
+        "option3": "c. fan",
+        "option4": "d. vivid",
+        "answer": "b. its",
+        "explanation": "Kata 'its' seharusnya diganti dengan 'their' karena 'peacocks' adalah plural dan memerlukan kata ganti yang sesuai."
+    },
+    {
+        "question": "39. In the latter half of the nineteenth century, physical techniques <u>making</u> it possible to determine the chemical constitution of <u>stars</u>.",
+        "option1": "a. latter",
+        "option2": "b. making",
+        "option3": "c. determine",
+        "option4": "d. stars",
+        "answer": "b. making",
+        "explanation": "Kata 'making' seharusnya diganti dengan 'made' karena diperlukan bentuk past tense untuk menyatakan tindakan yang terjadi di masa lalu."
+    },
+    {
+        "question": "40. In seeking out its representative writers, twentieth-century America seems to be searching for someone who <u>chronicle</u> the chaos and lack of direction reflected in some contemporary <u>values</u>.",
+        "option1": "a. seeking",
+        "option2": "b. chronicle",
+        "option3": "c. chaos",
+        "option4": "d. values",
+        "answer": "b. chronicle",
+        "explanation": "Kata 'chronicle' seharusnya diganti dengan 'chronicles' karena subjek 'someone' adalah singular dan memerlukan kata kerja yang sesuai."
+    }
+]

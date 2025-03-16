@@ -50,7 +50,7 @@ document.getElementById('quizForm').addEventListener('submit', function(event) {
 
             userAnswers = Array(questions.length).fill(null);
             startTime = new Date();
-            startTimer(questionCount * 35);
+            startTimer(questionCount * 40);
             showPage('quizPage');
             displayQuestion();
         })

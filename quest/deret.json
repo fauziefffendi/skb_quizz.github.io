@@ -1,0 +1,252 @@
+[
+    {
+        "question": "45 47 50 | 54 58 56 72 80 | 89 99 110",
+        "option1": "54",
+        "option2": "58",
+        "option3": "65",
+        "option4": "72",
+        "answer": "58",
+        "answerImage" : "pict/d1expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "21 30 32 | 41 43 52 55 63 | 65 74 76",
+        "option1": "41",
+        "option2": "43",
+        "option3": "53",
+        "option4": "55",
+        "answer": "55",
+        "answerImage" : "pict/d2expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "5 10 20 | 16 21 43 38 43 | 86 82 87",
+        "option1": "16",
+        "option2": "21",
+        "option3": "43",
+        "option4": "38",
+        "answer": "43",
+        "answerImage" : "pict/d3expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "6 -12 -24 | 49 96 -192 -384 768 | 1536 -3072 -6144",
+        "option1": "49",
+        "option2": "96",
+        "option3": "-192",
+        "option4": "384",
+        "answer": "49",
+        "answerImage" : "pict/d4expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "14 -10 23 | -3 32 4 41 10 | 150 18 54",
+        "option1": "-3",
+        "option2": "32",
+        "option3": "4",
+        "option4": "10",
+        "answer": "10",
+        "answerImage" : "pict/d5expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "2048 50 1024 | 10 512 1 256 2/5 | 128 2/25 64",
+        "option1": "10",
+        "option2": "512",
+        "option3": "1",
+        "option4": "256",
+        "answer": "2/5",
+        "answerImage" : "pict/d6expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "98 17 87 | 34 75 68 65 136 | 54 272 43",
+        "option1": "34",
+        "option2": "75",
+        "option3": "68",
+        "option4": "65",
+        "answer": "75",
+        "answerImage" : "pict/d7expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "6 24 18 | 25 100 94 100 404 | 398 405 1620",
+        "option1": "25",
+        "option2": "100",
+        "option3": "94",
+        "option4": "100",
+        "answer": "100",
+        "answerImage" : "pict/d8expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "23 243 46 | 81 92 27 183 9 | 368 3 736",
+        "option1": "81",
+        "option2": "92",
+        "option3": "27",
+        "option4": "183",
+        "answer": "183",
+        "answerImage" : "pict/d9expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "78 80 76 | 82 74 84 72 87 | 70 88 68",
+        "option1": "82",
+        "option2": "74",
+        "option3": "84",
+        "option4": "87",
+        "answer": "87",
+        "answerImage" : "pict/d10expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "31 30 33 | 28 35 26 37 25 | 39 22 41",
+        "option1": "28",
+        "option2": "35",
+        "option3": "37",
+        "option4": "25",
+        "answer": "25",
+        "answerImage" : "pict/d11expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "5 10 12 | 36 39 155 160 800 | 805 4830 4836",
+        "option1": "36",
+        "option2": "39",
+        "option3": "155",
+        "option4": "160",
+        "answer": "155",
+        "answerImage" : "pict/d12expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "6 20 27 | 40 48 62 69 83 | 90 104 111",
+        "option1": "40",
+        "option2": "48",
+        "option3": "62",
+        "option4": "69",
+        "answer": "40",
+        "answerImage" : "pict/d13expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "12 43 28 | 58 44 75 60 91 | 76 107 92",
+        "option1": "58",
+        "option2": "44",
+        "option3": "75",
+        "option4": "60",
+        "answer": "58",
+        "answerImage" : "pict/d14expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "36 34 41 | 39 46 44 48 | 56 54 61",
+        "option1": "39",
+        "option2": "46",
+        "option3": "44",
+        "option4": "48",
+        "answer": "48",
+        "answerImage" : "pict/d15expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "31 31 29 | 32 34 30 33 33 | 31 34 34",
+        "option1": "32",
+        "option2": "34",
+        "option3": "30",
+        "option4": "33",
+        "answer": "34",
+        "answerImage" : "pict/d16expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "201 61 190 | 83 178 105 168 127 | 157 149 146",
+        "option1": "83",
+        "option2": "178",
+        "option3": "105",
+        "option4": "168",
+        "answer": "178",
+        "answerImage" : "pict/d17expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "44 54 45 | 360 357 361 1805 1808 | 1806 3612 3613",
+        "option1": "360",
+        "option2": "367",
+        "option3": "1805",
+        "option4": "1808",
+        "answer": "1808",
+        "answerImage" : "pict/d18expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "15 6 19 | 24 23 96 27 385 | 31 1536 35",
+        "option1": "24",
+        "option2": "23",
+        "option3": "96",
+        "option4": "385",
+        "answer": "385",
+        "answerImage" : "pict/d19expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "729 5 243 | 41 81 320 27 2560 | 9 20480 3",
+        "option1": "41",
+        "option2": "81",
+        "option3": "320",
+        "option4": "27",
+        "answer": "41",
+        "answerImage" : "pict/d20expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "51 64 58 | -58 -45 -51 51 65 | 58 -58 -45",
+        "option1": "-58",
+        "option2": "-45",
+        "option3": "65",
+        "option4": "-51",
+        "answer": "65",
+        "answerImage" : "pict/d21expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "4 8 24 | 12 24 40 20 41 | 56 28 56",
+        "option1": "12",
+        "option2": "24",
+        "option3": "20",
+        "option4": "41",
+        "answer": "41",
+        "answerImage" : "pict/d22expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "6 80 30 | 32 150 128 750 513 | 3570 2048 18750",
+        "option1": "32",
+        "option2": "150",
+        "option3": "750",
+        "option4": "513",
+        "answer": "513",
+        "answerImage" : "pict/d23expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "1 2 12 | 3 6 16 8 14 | 24 15 30",
+        "option1": "3",
+        "option2": "6",
+        "option3": "8",
+        "option4": "14",
+        "answer": "8",
+        "answerImage" : "pict/d24expl.jpg",
+        "explanation": "Jelas"
+    },
+    {
+        "question": "7 4 24 | 28 26 156 161 158 |948 953 950",
+        "option1": "28",
+        "option2": "26",
+        "option3": "156",
+        "option4": "161",
+        "answer": "28",
+        "answerImage" : "pict/d25expl.jpg",
+        "explanation": "Jelas"
+    }
+]

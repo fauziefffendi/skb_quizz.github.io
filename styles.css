@@ -24,6 +24,10 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    font-weight: normal;
+}
+
 form {
     display: flex;
     flex-direction: column;
@@ -135,4 +139,18 @@ button:hover {
 u {
     text-decoration: underline;
     text-decoration-thickness: 2px;
+}
+
+/* menanbah garis pemisah tiap soal pada laman explanation */
+.question {
+    margin-bottom: 10px; 
+    padding-bottom: 10px; 
+    border-bottom: 1.5px solid #b3b3b3; 
+}
+
+/* Hapus garis pemisah pada soal terakhir */
+.question:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
 }

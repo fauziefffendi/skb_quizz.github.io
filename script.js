@@ -50,7 +50,7 @@ document.getElementById('quizForm').addEventListener('submit', function(event) {
 
             userAnswers = Array(questions.length).fill(null);
             startTime = new Date();
-            startTimer(questionCount * 60);
+            startTimer(questionCount * 35);
             showPage('quizPage');
             displayQuestion();
         })
@@ -69,7 +69,13 @@ function displayQuestion() {
         const options = [question.option1, question.option2, question.option3, question.option4];
         options.forEach((option, idx) => {
             const isChecked = userAnswers[currentQuestionIndex] === option ? 'checked' : '';
-            optionsHTML += `<label><input type="radio" name="answer" value="${option}" ${isChecked}> ${option}</label><br>`;
+            optionsHTML += `
+                <label>
+                    <input type="radio" name="answer" value="${option}" ${isChecked}>
+                    ${option}
+                    ${question[`option${idx + 1}Image`] ? `<img src="${question[`option${idx + 1}Image`]}" alt="Option ${idx + 1} Image" style="max-width: 100%; height: auto;">` : ''}
+                </label><br>
+            `;
         });
     } else {
         const answerValue = userAnswers[currentQuestionIndex] || '';
@@ -78,6 +84,7 @@ function displayQuestion() {
 
     questionContainer.innerHTML = `
         <h2>${question.question}</h2>
+        ${question.questionImage ? `<img src="${question.questionImage}" alt="Question Image" style="max-width: 100%; height: auto;">` : ''}
         ${optionsHTML}
     `;
 
@@ -174,8 +181,10 @@ function displayExplanation() {
         explanationContainer.innerHTML += `
             <div class="question">
                 <h2>${question.question}</h2>
+                ${question.questionImage ? `<img src="${question.questionImage}" alt="Question Image" style="max-width: 100%; height: auto;">` : ''}
                 <p>Your Answer: <span style="color: ${isCorrect ? 'green' : 'red'};">${userAnswer}</span></p>
                 <p>Correct Answer: <span style="color: green;">${question.answer}</span></p>
+                ${question.answerImage ? `<img src="${question.answerImage}" alt="Correct Answer Image" style="max-width: 100%; height: auto;">` : ''}
                 <p>Explanation: ${question.explanation}</p>
             </div>
         `;
@@ -195,7 +204,6 @@ document.getElementById('replayButton2').addEventListener('click', function() {
 document.getElementById('backButton').addEventListener('click', function() {
     showPage('resultsPage');
 });
-
 
 function resetQuiz() {
     currentQuestionIndex = 0;

@@ -1,0 +1,371 @@
+[
+    {
+      "question": "Siapa pemimpin ekspedisi pertama Belanda yang mendarat di Banten pada 1596?",
+      "option1": "Jan Pieterszoon Coen",
+      "option2": "Cornelis de Houtman",
+      "option3": "Jacob van Neck",
+      "option4": "Van Heutsz",
+      "answer": "Cornelis de Houtman",
+      "explanation": "Cornelis de Houtman memimpin ekspedisi pertama Belanda ke Indonesia yang mendarat di Banten pada 1596, meskipun ekspedisi ini gagal menjalin hubungan baik."
+    },
+    {
+      "question": "Tokoh Belanda yang menerapkan sistem Cultuurstelsel (Tanam Paksa) di Jawa adalah...",
+      "option1": "Eduard Douwes Dekker",
+      "option2": "Johannes van den Bosch",
+      "option3": "Hendrik Merkus de Kock",
+      "option4": "Christiaan Snouck Hurgronje",
+      "answer": "Johannes van den Bosch",
+      "explanation": "Johannes van den Bosch adalah Gubernur Jenderal Hindia Belanda yang memperkenalkan sistem Tanam Paksa (Cultuurstelsel) pada 1830."
+    },
+    {
+      "question": "Perang Diponegoro terjadi pada tahun...",
+      "option1": "1815-1820",
+      "option2": "1825-1830",
+      "option3": "1835-1840",
+      "option4": "1845-1850",
+      "answer": "1825-1830",
+      "explanation": "Perang Diponegoro atau Perang Jawa berlangsung dari tahun 1825 hingga 1830 melawan pemerintahan kolonial Belanda."
+    },
+    {
+      "question": "Pasukan khusus Belanda yang terkenal kejam dalam Perang Aceh disebut...",
+      "option1": "KNIL",
+      "option2": "Marsose",
+      "option3": "VOC",
+      "option4": "Legiun Mangkunegaran",
+      "answer": "Marsose",
+      "explanation": "Pasukan Marsose (Korps Marechaussee te Voet) adalah pasukan khusus Belanda yang dibentuk untuk memerangi gerilyawan Aceh dengan taktik brutal."
+    },
+    {
+      "question": "Peristiwa bunuh diri massal oleh rakyat Bali melawan Belanda disebut...",
+      "option1": "Sumpah Palapa",
+      "option2": "Perang Puputan",
+      "option3": "Trikora",
+      "option4": "Long March",
+      "answer": "Perang Puputan",
+      "explanation": "Puputan adalah tradisi perlawanan terakhir rakyat Bali dengan bunuh diri massal, seperti yang terjadi di Badung (1906) dan Klungkung (1908)."
+    },
+    {
+      "question": "Pahlawan dari Maluku yang dieksekusi Belanda di Benteng Victoria adalah...",
+      "option1": "Sultan Hasanuddin",
+      "option2": "Pattimura",
+      "option3": "Imam Bonjol",
+      "option4": "Teuku Umar",
+      "answer": "Pattimura",
+      "explanation": "Thomas Matulessy atau Pattimura adalah pahlawan Maluku yang memimpin perlawanan tahun 1817 dan dihukum gantung oleh Belanda."
+    },
+    {
+      "question": "Tokoh Belanda yang menangkap Pangeran Diponegoro melalui tipu muslihat adalah...",
+      "option1": "J.B. van Heutsz",
+      "option2": "Jenderal Cochius",
+      "option3": "Hendrik Merkus de Kock",
+      "option4": "Cornelis Speelman",
+      "answer": "Hendrik Merkus de Kock",
+      "explanation": "Jenderal Hendrik Merkus de Kock menangkap Diponegoro saat perundingan palsu di Magelang pada 1830."
+    },
+    {
+      "question": "Sistem tanam paksa yang diterapkan Belanda disebut...",
+      "option1": "Landrent",
+      "option2": "Cultuurstelsel",
+      "option3": "Politik Etis",
+      "option4": "Devide et Impera",
+      "answer": "Cultuurstelsel",
+      "explanation": "Cultuurstelsel adalah sistem tanam paksa yang mewajibkan rakyat menanam tanaman ekspor seperti kopi dan tebu."
+    },
+    {
+      "question": "Pertempuran di mana Sisingamangaraja XII gugur melawan Belanda terjadi di...",
+      "option1": "Banda Aceh",
+      "option2": "Bukittinggi",
+      "option3": "Dairi",
+      "option4": "Makassar",
+      "answer": "Dairi",
+      "explanation": "Sisingamangaraja XII gugur dalam pertempuran melawan pasukan Marsose pimpinan Kapten Christoffel di Dairi, Sumatera Utara (1907)."
+    },
+    {
+      "question": "Pemimpin perlawanan rakyat Banjar yang wafat karena sakit adalah...",
+      "option1": "Pangeran Antasari",
+      "option2": "Sultan Hamid II",
+      "option3": "Pangeran Hidayatullah",
+      "option4": "Syarif Abdurrahman",
+      "answer": "Pangeran Antasari",
+      "explanation": "Pangeran Antasari, pemimpin Perang Banjar, wafat karena penyakit paru-paru di pedalaman Kalimantan (1862)."
+    },
+    {
+        "question": "Siapa Gubernur Jenderal VOC yang mendirikan Batavia pada 1619?",
+        "option1": "Cornelis de Houtman",
+        "option2": "Jan Pieterszoon Coen",
+        "option3": "Antonio van Diemen",
+        "option4": "Johannes van den Bosch",
+        "answer": "Jan Pieterszoon Coen",
+        "explanation": "Jan Pieterszoon Coen menghancurkan Jayakarta dan mendirikan Batavia sebagai markas VOC pada 30 Mei 1619."
+      },
+      {
+        "question": "Perang Padri awalnya adalah konflik antara...",
+        "option1": "Belanda melawan Spanyol",
+        "option2": "Kaum Padri melawan Kaum Adat",
+        "option3": "VOC melawan Kesultanan Aceh",
+        "option4": "Inggris melawan Belanda",
+        "answer": "Kaum Padri melawan Kaum Adat",
+        "explanation": "Perang Padri bermula dari pertentangan antara kaum ulama reformis (Padri) dengan kaum bangsawan tradisional (Adat) di Minangkabau."
+      },
+      {
+        "question": "Buku 'Max Havelaar' yang mengkritik tanam paksa ditulis oleh...",
+        "option1": "Multatuli",
+        "option2": "Van Heutsz",
+        "option3": "Snouck Hurgronje",
+        "option4": "Raffles",
+        "answer": "Multatuli",
+        "explanation": "Multatuli (nama pena Eduard Douwes Dekker) menulis 'Max Havelaar' pada 1860 yang mengungkap kekejaman tanam paksa di Lebak, Banten."
+      },
+      {
+        "question": "Pertempuran di Surabaya melawan Sekutu pada 10 November 1945 dipimpin oleh...",
+        "option1": "Soekarno",
+        "option2": "Bung Tomo",
+        "option3": "Jenderal Sudirman",
+        "option4": "Tan Malaka",
+        "answer": "Bung Tomo",
+        "explanation": "Bung Tomo menjadi simbol perlawanan rakyat Surabaya melalui pidato-pidato radionya yang membakar semangat juang."
+      },
+      {
+        "question": "Perlawanan rakyat Maluku dipimpin oleh...",
+        "option1": "Sultan Hasanuddin",
+        "option2": "Pattimura",
+        "option3": "Imam Bonjol",
+        "option4": "Diponegoro",
+        "answer": "Pattimura",
+        "explanation": "Thomas Matulessy atau Kapitan Pattimura memimpin perlawanan rakyat Maluku tahun 1817 melawan Belanda."
+      },
+      {
+        "question": "Sistem tanam paksa mulai diberlakukan pada tahun...",
+        "option1": "1800",
+        "option2": "1830",
+        "option3": "1870",
+        "option4": "1900",
+        "answer": "1830",
+        "explanation": "Cultuurstelsel (tanam paksa) mulai diberlakukan tahun 1830 oleh Gubernur Jenderal Johannes van den Bosch."
+      },
+      {
+        "question": "Tokoh yang dikenal sebagai 'Ayam Jantan dari Timur' adalah...",
+        "option1": "Pangeran Diponegoro",
+        "option2": "Sultan Hasanuddin",
+        "option3": "Teuku Umar",
+        "option4": "Pattimura",
+        "answer": "Sultan Hasanuddin",
+        "explanation": "Sultan Hasanuddin dari Gowa dijuluki 'Ayam Jantan dari Timur' karena keberaniannya melawan Belanda."
+      },
+      {
+        "question": "Perjanjian yang mengakhiri Perang Diponegoro adalah...",
+        "option1": "Perjanjian Giyanti",
+        "option2": "Perjanjian Linggarjati",
+        "option3": "Perjanjian Renville",
+        "option4": "Perjanjian Magelang",
+        "answer": "Perjanjian Magelang",
+        "explanation": "Perjanjian Magelang tahun 1830 adalah perundingan palsu yang berujung pada penangkapan Pangeran Diponegoro."
+      },
+      {
+        "question": "Pahlawan perempuan dari Aceh yang terus melawan Belanda setelah suaminya tewas adalah...",
+        "option1": "R.A. Kartini",
+        "option2": "Cut Nyak Dhien",
+        "option3": "Martha Christina Tiahahu",
+        "option4": "Nyi Ageng Serang",
+        "answer": "Cut Nyak Dhien",
+        "explanation": "Cut Nyak Dhien meneruskan perlawanan suaminya Teuku Umar melawan Belanda hingga ditangkap tahun 1905."
+      },
+      {
+        "question": "Pemberontakan petani di Banten terjadi pada tahun...",
+        "option1": "1825",
+        "option2": "1888",
+        "option3": "1926",
+        "option4": "1945",
+        "answer": "1888",
+        "explanation": "Pemberontakan petani Banten meletus tahun 1888 akibat tekanan pajak dan campur tangan Belanda dalam agama."
+      },
+      {
+        "question": "Tokoh Belanda yang meneliti Islam di Indonesia dengan menyamar sebagai Muslim adalah...",
+        "option1": "Van Heutsz",
+        "option2": "Snouck Hurgronje",
+        "option3": "Daendels",
+        "option4": "Van den Bosch",
+        "answer": "Snouck Hurgronje",
+        "explanation": "Christiaan Snouck Hurgronje menyamar sebagai Abdul Gaffar untuk mempelajari masyarakat Aceh dan memberi saran kepada Belanda."
+      },
+      {
+        "question": "Perang Banjar dipimpin oleh...",
+        "option1": "Pangeran Antasari",
+        "option2": "Sultan Agung",
+        "option3": "Sultan Hasanuddin",
+        "option4": "Pangeran Diponegoro",
+        "answer": "Pangeran Antasari",
+        "explanation": "Pangeran Antasari memimpin Perang Banjar (1859-1905) melawan Belanda di Kalimantan Selatan."
+      },
+      {
+        "question": "Politik Etis mulai diterapkan pada tahun...",
+        "option1": "1800",
+        "option2": "1830",
+        "option3": "1901",
+        "option4": "1945",
+        "answer": "1901",
+        "explanation": "Politik Etis (Balas Budi) mulai diterapkan tahun 1901 setelah kritik terhadap tanam paksa semakin keras."
+      },
+      {
+        "question": "Tokoh yang menulis 'Habis Gelap Terbitlah Terang' adalah...",
+        "option1": "Cut Nyak Dhien",
+        "option2": "R.A. Kartini",
+        "option3": "Martha Christina Tiahahu",
+        "option4": "Nyi Ageng Serang",
+        "answer": "R.A. Kartini",
+        "explanation": "R.A. Kartini menulis surat-surat yang kemudian dibukukan menjadi 'Habis Gelap Terbitlah Terang' tentang emansipasi wanita."
+      },
+      {
+        "question": "Perlawanan Sisingamangaraja XII terjadi di daerah...",
+        "option1": "Aceh",
+        "option2": "Sumatera Barat",
+        "option3": "Sumatera Utara",
+        "option4": "Sumatera Selatan",
+        "answer": "Sumatera Utara",
+        "explanation": "Sisingamangaraja XII memimpin perlawanan rakyat Batak melawan Belanda di Tapanuli, Sumatera Utara (1878-1907)."
+      },
+      {
+        "question": "Tokoh yang memimpin perlawanan di Bali dengan melakukan puputan adalah...",
+        "option1": "I Gusti Ngurah Rai",
+        "option2": "I Gusti Ketut Jelantik",
+        "option3": "I Gusti Ngurah Made Agung",
+        "option4": "Dewa Agung Jambe",
+        "answer": "I Gusti Ngurah Made Agung",
+        "explanation": "Raja Badung I Gusti Ngurah Made Agung melakukan puputan (perang habis-habisan) melawan Belanda tahun 1906."
+      },
+      {
+        "question": "Perjanjian yang membagi wilayah Indonesia antara Belanda dan Inggris adalah...",
+        "option1": "Perjanjian Giyanti",
+        "option2": "Perjanjian Tuntang",
+        "option3": "Perjanjian London",
+        "option4": "Perjanjian Renville",
+        "answer": "Perjanjian London",
+        "explanation": "Perjanjian London 1824 membagi wilayah Nusantara, dimana Inggris dapat Malaya dan Belanda dapat Sumatera dan sekitarnya."
+      },
+      {
+        "question": "Pahlawan perempuan dari Maluku yang ikut melawan Belanda adalah...",
+        "option1": "Cut Nyak Dhien",
+        "option2": "Martha Christina Tiahahu",
+        "option3": "Nyi Ageng Serang",
+        "option4": "R.A. Kartini",
+        "answer": "Martha Christina Tiahahu",
+        "explanation": "Martha Christina Tiahahu adalah pejuang perempuan dari Maluku yang ikut melawan Belanda dalam Perang Pattimura."
+      },
+      {
+        "question": "Sistem kerja paksa pada masa Belanda disebut...",
+        "option1": "Rodi",
+        "option2": "Cultuurstelsel",
+        "option3": "Landrent",
+        "option4": "Contingenten",
+        "answer": "Rodi",
+        "explanation": "Rodi adalah sistem kerja paksa tanpa upah yang diterapkan Belanda untuk membangun infrastruktur seperti jalan dan benteng."
+      },
+      {
+        "question": "Pertempuran Ambarawa terjadi antara Indonesia melawan...",
+        "option1": "Belanda",
+        "option2": "Inggris",
+        "option3": "Jepang",
+        "option4": "Portugis",
+        "answer": "Inggris",
+        "explanation": "Pertempuran Ambarawa November-Desember 1945 terjadi antara TKR melawan tentara Inggris yang ingin membebaskan tawanan Belanda."
+      },
+      {
+        "question": "Tokoh yang memimpin perlawanan di Sulawesi Selatan adalah...",
+        "option1": "Sultan Hasanuddin",
+        "option2": "Pattimura",
+        "option3": "Teuku Umar",
+        "option4": "Diponegoro",
+        "answer": "Sultan Hasanuddin",
+        "explanation": "Sultan Hasanuddin dari Kerajaan Gowa memimpin perlawanan sengit melawan VOC di Sulawesi Selatan abad ke-17."
+      },
+      {
+        "question": "Perlawanan Pangeran Diponegoro berlangsung selama...",
+        "option1": "5 tahun",
+        "option2": "10 tahun",
+        "option3": "15 tahun",
+        "option4": "20 tahun",
+        "answer": "5 tahun",
+        "explanation": "Perang Diponegoro berlangsung dari tahun 1825 sampai 1830, selama 5 tahun."
+      },
+      {
+        "question": "Tokoh Belanda yang membangun Jalan Raya Pos adalah...",
+        "option1": "Daendels",
+        "option2": "Van den Bosch",
+        "option3": "Van Heutsz",
+        "option4": "Coen",
+        "answer": "Daendels",
+        "explanation": "Herman Willem Daendels membangun Jalan Raya Pos sepanjang 1000 km dari Anyer ke Panarukan (1808-1811) untuk pertahanan melawan Inggris."
+      },
+      {
+        "question": "Perlawanan rakyat Singaparna melawan Jepang dipimpin oleh...",
+        "option1": "K.H. Zainal Mustafa",
+        "option2": "Bung Tomo",
+        "option3": "Jenderal Sudirman",
+        "option4": "Tan Malaka",
+        "answer": "K.H. Zainal Mustafa",
+        "explanation": "K.H. Zainal Mustafa memimpin perlawanan rakyat Singaparna, Tasikmalaya tahun 1944 menolak upacara Seikerei penghormatan kepada Kaisar Jepang."
+      },
+      {
+        "question": "Perjanjian yang mengakhiri Perang Aceh adalah...",
+        "option1": "Perjanjian Saragosa",
+        "option2": "Perjanjian Bongaya",
+        "option3": "Perjanjian Korte Verklaring",
+        "option4": "Perjanjian Tuntang",
+        "answer": "Perjanjian Korte Verklaring",
+        "explanation": "Perjanjian Korte Verklaring (Pernyataan Singkat) tahun 1904 menjadi tanda menyerahnya para pemimpin Aceh kepada Belanda."
+      },
+      {
+        "question": "Pahlawan dari Sumatera Barat yang ditangkap Belanda tahun 1837 adalah...",
+        "option1": "Teuku Umar",
+        "option2": "Imam Bonjol",
+        "option3": "Sisingamangaraja XII",
+        "option4": "Pattimura",
+        "answer": "Imam Bonjol",
+        "explanation": "Tuanku Imam Bonjol, pemimpin Perang Padri, ditangkap Belanda tahun 1837 melalui tipu muslihat."
+      },
+      {
+        "question": "Perlawanan rakyat Batak dipimpin oleh...",
+        "option1": "Sisingamangaraja XII",
+        "option2": "Imam Bonjol",
+        "option3": "Teuku Umar",
+        "option4": "Pattimura",
+        "answer": "Sisingamangaraja XII",
+        "explanation": "Sisingamangaraja XII memimpin perlawanan rakyat Batak melawan Belanda dari tahun 1878 sampai 1907."
+      },
+      {
+        "question": "Tokoh yang memimpin perlawanan di Jawa Timur melawan Inggris adalah...",
+        "option1": "Pangeran Diponegoro",
+        "option2": "Sultan Agung",
+        "option3": "Pangeran Mangkubumi",
+        "option4": "Pangeran Trunojoyo",
+        "answer": "Pangeran Trunojoyo",
+        "explanation": "Pangeran Trunojoyo memimpin perlawanan di Jawa Timur melawan VOC dan sekutunya pada abad ke-17."
+      },
+      {
+        "question": "Perlawanan rakyat Maluku terjadi pada tahun...",
+        "option1": "1817",
+        "option2": "1825",
+        "option3": "1873",
+        "option4": "1904",
+        "answer": "1817",
+        "explanation": "Perlawanan rakyat Maluku di bawah pimpinan Pattimura terjadi tahun 1817 melawan kebijakan Belanda."
+      },
+      {
+        "question": "Tokoh Belanda yang menerapkan sistem tanam paksa adalah...",
+        "option1": "Daendels",
+        "option2": "Van den Bosch",
+        "option3": "Van Heutsz",
+        "option4": "Coen",
+        "answer": "Van den Bosch",
+        "explanation": "Johannes van den Bosch menerapkan sistem tanam paksa (Cultuurstelsel) tahun 1830 untuk mengisi kas Belanda yang kosong."
+      },
+      {
+        "question": "Perlawanan rakyat Bali melawan Belanda dikenal dengan nama...",
+        "option1": "Perang Sabil",
+        "option2": "Perang Puputan",
+        "option3": "Perang Padri",
+        "option4": "Perang Jawa",
+        "answer": "Perang Puputan",
+        "explanation": "Perang Puputan adalah perlawanan habis-habisan rakyat Bali yang lebih memilih mati daripada menyerah kepada Belanda."
+      }
+  ]

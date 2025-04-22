@@ -1,0 +1,165 @@
+[
+  {
+    "question": "Bentuk Negara Kesatuan Republik Indonesia ditegaskan dalam pasal...",
+    "option1": "Pasal 1 ayat 1",
+    "option2": "Pasal 2 ayat 1",
+    "option3": "Pasal 18 ayat 1",
+    "option4": "Pasal 37 ayat 5",
+    "answer": "Pasal 1 ayat 1",
+    "explanation": "Pasal 1 ayat 1 UUD 1945 menyatakan: 'Negara Indonesia ialah Negara Kesatuan yang berbentuk Republik.'"
+  },
+  {
+    "question": "Lembaga yang berwenang mengubah UUD 1945 adalah...",
+    "option1": "Mahkamah Konstitusi",
+    "option2": "Majelis Permusyawaratan Rakyat (MPR)",
+    "option3": "Dewan Perwakilan Rakyat (DPR)",
+    "option4": "Presiden dengan persetujuan DPR",
+    "answer": "Majelis Permusyawaratan Rakyat (MPR)",
+    "explanation": "Berdasarkan Pasal 3 ayat 1 UUD 1945, MPR berwenang mengubah dan menetapkan Undang-Undang Dasar."
+  },
+  {
+    "question": "Pasal yang mengatur tentang kementerian negara adalah...",
+    "option1": "Pasal 17",
+    "option2": "Pasal 20",
+    "option3": "Pasal 23",
+    "option4": "Pasal 24",
+    "answer": "Pasal 17",
+    "explanation": "Pasal 17 UUD 1945 mengatur tentang pembentukan, pengubahan, dan pembubaran kementerian negara oleh Presiden."
+  },
+  {
+    "question": "Yang berwenang memberhentikan Presiden dan/atau Wakil Presiden adalah...",
+    "option1": "Mahkamah Agung",
+    "option2": "Mahkamah Konstitusi",
+    "option3": "Majelis Permusyawaratan Rakyat (MPR)",
+    "option4": "Dewan Perwakilan Rakyat (DPR)",
+    "answer": "Majelis Permusyawaratan Rakyat (MPR)",
+    "explanation": "Pasal 3 ayat 3 dan Pasal 7B UUD 1945 memberikan kewenangan kepada MPR untuk memberhentikan Presiden/Wakil Presiden."
+  },
+  {
+    "question": "Fungsi utama DPR menurut UUD 1945 adalah...",
+    "option1": "Legislasi, anggaran, dan yudikasi",
+    "option2": "Legislasi, anggaran, dan pengawasan",
+    "option3": "Eksekutif, legislatif, dan yudikatif",
+    "option4": "Pengawasan, yudikasi, dan anggaran",
+    "answer": "Legislasi, anggaran, dan pengawasan",
+    "explanation": "Pasal 20A ayat 1 UUD 1945 menyatakan DPR memiliki fungsi legislasi, anggaran, dan pengawasan."
+  },
+  {
+    "question": "DPD memiliki kewenangan untuk mengajukan RUU terkait...",
+    "option1": "Pertahanan dan keamanan",
+    "option2": "Otonomi daerah dan hubungan pusat-daerah",
+    "option3": "Perdagangan internasional",
+    "option4": "Kebijakan moneter",
+    "answer": "Otonomi daerah dan hubungan pusat-daerah",
+    "explanation": "Pasal 22D ayat 1 UUD 1945 menyatakan DPD dapat mengajukan RUU terkait otonomi daerah, hubungan pusat-daerah, dll."
+  },
+  {
+    "question": "Pasal yang mengatur tentang pendidikan dan kebudayaan adalah...",
+    "option1": "Pasal 31-32",
+    "option2": "Pasal 28C-28D",
+    "option3": "Pasal 33-34",
+    "option4": "Pasal 29-30",
+    "answer": "Pasal 31-32",
+    "explanation": "Pasal 31 mengatur pendidikan dan Pasal 32 mengatur kebudayaan dalam UUD 1945."
+  },
+  {
+    "question": "Badan yang berwenang menguji peraturan perundang-undangan di bawah UU terhadap UU adalah...",
+    "option1": "Mahkamah Konstitusi",
+    "option2": "Mahkamah Agung",
+    "option3": "Komisi Yudisial",
+    "option4": "Dewan Perwakilan Daerah",
+    "answer": "Mahkamah Agung",
+    "explanation": "Pasal 24A ayat 1 UUD 1945 memberi kewenangan judicial review kepada Mahkamah Agung untuk peraturan di bawah UU."
+  },
+  {
+    "question": "Pasal yang menyatakan 'Setiap warga negara berhak mendapat pendidikan' adalah...",
+    "option1": "Pasal 28C ayat 1",
+    "option2": "Pasal 31 ayat 1",
+    "option3": "Pasal 32 ayat 1",
+    "option4": "Pasal 28E ayat 3",
+    "answer": "Pasal 31 ayat 1",
+    "explanation": "Pasal 31 ayat 1 UUD 1945 menyatakan: 'Setiap warga negara berhak mendapat pendidikan.'"
+  },
+  {
+    "question": "Lembaga yang bertugas mengusulkan pengangkatan hakim agung adalah...",
+    "option1": "Komisi Yudisial",
+    "option2": "Mahkamah Konstitusi",
+    "option3": "Dewan Perwakilan Rakyat",
+    "option4": "Kementerian Hukum dan HAM",
+    "answer": "Komisi Yudisial",
+    "explanation": "Pasal 24B ayat 3 UUD 1945 menyatakan Komisi Yudisial mempunyai wewenang mengusulkan pengangkatan hakim agung."
+  },
+  {
+    "question": "Pasal tentang pertahanan dan keamanan negara diatur dalam...",
+    "option1": "Pasal 27",
+    "option2": "Pasal 30",
+    "option3": "Pasal 28",
+    "option4": "Pasal 31",
+    "answer": "Pasal 30",
+    "explanation": "Pasal 30 UUD 1945 mengatur tentang hak dan kewajiban warga negara dalam usaha pertahanan dan keamanan negara."
+  },
+  {
+    "question": "Yang berwenang mengesahkan RUU menjadi UU adalah...",
+    "option1": "Presiden",
+    "option2": "DPR",
+    "option3": "Mahkamah Agung",
+    "option4": "MPR",
+    "answer": "Presiden",
+    "explanation": "Pasal 20 ayat 4 UUD 1945 menyatakan Presiden mengesahkan RUU yang telah disetujui bersama DPR menjadi UU."
+  },
+  {
+    "question": "Pasal tentang perekonomian nasional dan kesejahteraan sosial terdapat dalam...",
+    "option1": "Pasal 33-34",
+    "option2": "Pasal 31-32",
+    "option3": "Pasal 27-28",
+    "option4": "Pasal 29-30",
+    "answer": "Pasal 33-34",
+    "explanation": "Pasal 33 mengatur perekonomian nasional dan Pasal 34 mengatur kesejahteraan sosial dalam UUD 1945."
+  },
+  {
+    "question": "Pasal yang menyatakan 'Cabang-cabang produksi yang penting bagi negara dikuasai oleh negara' adalah...",
+    "option1": "Pasal 33 ayat 2",
+    "option2": "Pasal 33 ayat 3",
+    "option3": "Pasal 34 ayat 1",
+    "option4": "Pasal 34 ayat 2",
+    "answer": "Pasal 33 ayat 2",
+    "explanation": "Pasal 33 ayat 2 UUD 1945 berbunyi: 'Cabang-cabang produksi yang penting bagi negara dan yang menguasai hajat hidup orang banyak dikuasai oleh negara.'"
+  },
+  {
+    "question": "Lembaga yang berwenang memeriksa pengelolaan keuangan negara adalah...",
+    "option1": "BPK (Badan Pemeriksa Keuangan)",
+    "option2": "KPK (Komisi Pemberantasan Korupsi)",
+    "option3": "OJK (Otoritas Jasa Keuangan)",
+    "option4": "BI (Bank Indonesia)",
+    "answer": "BPK (Badan Pemeriksa Keuangan)",
+    "explanation": "Pasal 23E ayat 1 UUD 1945 menyatakan BPK bertugas memeriksa pengelolaan dan tanggung jawab keuangan negara."
+  },
+  {
+    "question": "Pasal tentang bendera, bahasa, dan lambang negara serta lagu kebangsaan diatur dalam...",
+    "option1": "Pasal 35-36",
+    "option2": "Pasal 32-33",
+    "option3": "Pasal 30-31",
+    "option4": "Pasal 28-29",
+    "answer": "Pasal 35-36",
+    "explanation": "Pasal 35 (bendera), Pasal 36 (bahasa), Pasal 36A (lambang negara), dan Pasal 36B (lagu kebangsaan)."
+  },
+  {
+    "question": "Yang berwenang mengangkat duta dan konsul adalah...",
+    "option1": "Presiden dengan persetujuan DPR",
+    "option2": "Menteri Luar Negeri",
+    "option3": "Mahkamah Agung",
+    "option4": "Majelis Permusyawaratan Rakyat",
+    "answer": "Presiden dengan persetujuan DPR",
+    "explanation": "Pasal 13 ayat 1 dan 2 UUD 1945 menyatakan Presiden mengangkat duta dan konsul dengan memperhatikan pertimbangan DPR."
+  },
+  {
+    "question": "Pasal tentang hak warga negara untuk berserikat dan berkumpul diatur dalam...",
+    "option1": "Pasal 28E ayat 3",
+    "option2": "Pasal 28C ayat 2",
+    "option3": "Pasal 28I ayat 1",
+    "option4": "Pasal 28A ayat 1",
+    "answer": "Pasal 28E ayat 3",
+    "explanation": "Pasal 28E ayat 3 UUD 1945 menyatakan: 'Setiap orang berhak atas kebebasan berserikat, berkumpul, dan mengeluarkan pendapat.'"
+  }
+]
+ 

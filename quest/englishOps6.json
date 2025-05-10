@@ -1,0 +1,137 @@
+[
+    {
+    "question": "______ range in color from pale yellow to bright orange.",
+    "option1": "a. Canaries",
+    "option2": "b. Canaries which",
+    "option3": "c. That canaries",
+    "option4": "d. Canaries that are",
+    "answer": "a. Canaries",
+    "explanation": "Kalimat membutuhkan subjek sederhana. Pilihan (A) 'Canaries' adalah subjek tepat tanpa perlu klausa relatif."
+    },
+    {
+    "question": "Carnivorous plants ______ insects to obtain nitrogen.",
+    "option1": "a. are generally trapped",
+    "option2": "b. trap generally",
+    "option3": "c. are trapped generally",
+    "option4": "d. generally trap",
+    "answer": "d. generally trap",
+    "explanation": "Struktur kalimat aktif membutuhkan kata kerja 'trap' dengan adverb 'generally' di tengah (modal/auxiliary + adverb + verb)."
+    },
+    {
+    "question": "A federal type of government results in ______.",
+    "option1": "a. a vertical distribution of power",
+    "option2": "b. power is distributed vertically",
+    "option3": "c. vertically distributed",
+    "option4": "d. the distribution of power is vertical",
+    "answer": "a. a vertical distribution of power",
+    "explanation": "Preposisi 'in' membutuhkan noun phrase. Pilihan (A) adalah noun phrase yang paling tepat."
+    },
+    {
+    "question": "February normally has twenty-eight days, but every fourth year, ______ has twenty-nine.",
+    "option1": "a. there",
+    "option2": "b. its",
+    "option3": "c. is a leap year",
+    "option4": "d. a leap year, it",
+    "answer": "d. a leap year, it",
+    "explanation": "Kalimat membutuhkan subjek dan klausa independen. Pilihan (D) menyediakan appositive 'a leap year' dan subjek 'it'."
+    },
+    {
+    "question": "Evidence suggests that one-quarter of operations ______ bypass surgery may be unnecessary.",
+    "option1": "a. they involve",
+    "option2": "b. involve",
+    "option3": "c. involving",
+    "option4": "d. which they involve",
+    "answer": "c. involving",
+    "explanation": "Bagian yang kosong membutuhkan participle phrase 'involving' untuk memodifikasi 'operations'."
+    },
+    {
+    "question": "______ a tornado spins in a counterclockwise direction in the northern hemisphere, it spins in the opposite direction in the southern hemisphere.",
+    "option1": "a. However",
+    "option2": "b. Because of",
+    "option3": "c. Although",
+    "option4": "d. That",
+    "answer": "c. Although",
+    "explanation": "Konjungsi 'Although' tepat untuk menunjukkan kontras antara dua klausa."
+    },
+    {
+    "question": "The Caldecott Medal, ______ for the best children's picture book, is awarded each January.",
+    "option1": "a. is a prize which",
+    "option2": "b. which prize",
+    "option3": "c. which is a prize",
+    "option4": "d. is a prize",
+    "answer": "c. which is a prize",
+    "explanation": "Klausa relatif non-restriktif membutuhkan 'which is a prize' untuk menjelaskan medal."
+    },
+    {
+    "question": "Sports medicine is a medical specialty that deals with the identification and treatment of injuries to persons ______.",
+    "option1": "a. sports are involved",
+    "option2": "b. involved in sports",
+    "option3": "c. they are involved in sports",
+    "option4": "d. sports involve them",
+    "answer": "b. involved in sports",
+    "explanation": "Reduced adjective clause 'involved in sports' paling tepat memodifikasi 'persons'."
+    },
+    {
+    "question": "The Wilmington Oil Field, in Long Beach, California, is one of ______ oil fields in the continental United States.",
+    "option1": "a. productive",
+    "option2": "b. the most productive",
+    "option3": "c. most are productive",
+    "option4": "d. productivity",
+    "answer": "b. the most productive",
+    "explanation": "Superlative 'the most productive' diperlukan setelah 'one of'."
+    },
+    {
+    "question": "Thunder occurs as ______ through air, causing the heated air to expand and collide with layers of cooler air.",
+    "option1": "a. an electrical charge",
+    "option2": "b. passes an electrical charge",
+    "option3": "c. the passing of an electrical charge",
+    "option4": "d. an electrical charge passes",
+    "answer": "d. an electrical charge passes",
+    "explanation": "Klausa lengkap 'an electrical charge passes' dibutuhkan setelah 'as'."
+    },
+    {
+    "question": "The population of Houston was ravaged by yellow fever in 1839 ______ in 1867.",
+    "option1": "a. it happened again",
+    "option2": "b. and again",
+    "option3": "c. was ravaged again",
+    "option4": "d. again once more",
+    "answer": "b. and again",
+    "explanation": "Struktur paralel membutuhkan 'and again' untuk menunjukkan kejadian berulang."
+    },
+    {
+    "question": "Researchers have long debated ______ Saturn's moon Titan contains hydrocarbon oceans and lakes.",
+    "option1": "a. over it",
+    "option2": "b. whether the",
+    "option3": "c. whether over",
+    "option4": "d. whether",
+    "answer": "d. whether",
+    "explanation": "Kata 'debated' langsung diikuti 'whether' tanpa perlu preposisi tambahan."
+    },
+    {
+    "question": "According to Bernoulli's principle, the higher the speed of a fluid gas, ______ the pressure.",
+    "option1": "a. it will be lower",
+    "option2": "b. lower than the",
+    "option3": "c. the lower",
+    "option4": "d. lower it is",
+    "answer": "c. the lower",
+    "explanation": "Struktur parallel comparative: 'the higher..., the lower...'."
+    },
+    {
+    "question": "The flight instructor, ______ at the air base, said that orders not to fight had been issued.",
+    "option1": "a. when interviewed",
+    "option2": "b. when he interviewed",
+    "option3": "c. when to interview",
+    "option4": "d. when interviewing",
+    "answer": "a. when interviewed",
+    "explanation": "Reduced adverb clause 'when interviewed' (passive) paling tepat."
+    },
+    {
+    "question": "In the northern and central parts of the state of Idaho ______ and churning rivers.",
+    "option1": "a. majestic mountains are found",
+    "option2": "b. are majestic mountains found",
+    "option3": "c. are found majestic mountains",
+    "option4": "d. finding majestic mountains",
+    "answer": "c. are found majestic mountains",
+    "explanation": "Inverted structure diperlukan karena prepositional phrase awal. Pilihan (C) menunjukkan struktur inversi yang benar."
+    }
+    ]

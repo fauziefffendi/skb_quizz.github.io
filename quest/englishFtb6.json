@@ -1,0 +1,227 @@
+[
+    {
+    "question": "<u>Light</u> can <u>travels</u> from <u>the Sun</u> to the Earth <u>in eight minutes</u> and twenty seconds.",
+    "option1": "a. Light",
+    "option2": "b. travels",
+    "option3": "c. the sun",
+    "option4": "d. in eight minutes",
+    "answer": "b. travels",
+    "explanation": "Error in B: 'travels' (incorrect verb form after modal 'can'). Should be 'travel' (base form)."
+    },
+    {
+    "question": "Every human <u>typically<u/> <u>have</u> twenty-three <u>pairs</u> of chromosomes in <u>most cells<u/>.",
+    "option1": "a. typically",
+    "option2": "b. have",
+    "option3": "c. pairs",
+    "option4": "d. most cells",
+    "answer": "b. have",
+    "explanation": "Error in B: 'have' (plural verb). Should be 'has' (singular to match 'Every human')."
+    },
+    {
+    "question": "<u>In the</u> <u>sport</u> of fencing, three <u>type</u> of swords <u>are used</u>: the foil, the epee, and the sabre.",
+    "option1": "a. In the",
+    "option2": "b. sport",
+    "option3": "c. type",
+    "option4": "d. are used",
+    "answer": "c. type",
+    "explanation": "Error in B: 'type' (singular). Should be 'types' (plural to match 'three')."
+    },
+    {
+    "question": "The Internal Revenue Service <u>uses</u> computers to check tax return <u>computations</u>, to determine the reasonableness of deductions, and <u>for verifying</u> the accuracy of <u>reported income</u>.",
+    "option1": "a. uses",
+    "option2": "b. computaions",
+    "option3": "c. for verifying",
+    "option4": "d. reported income",
+    "answer": "c. for verifying",
+    "explanation": "Error in C: 'for verifying' breaks parallel structure. Should be 'to verify' (to match infinitives 'to check', 'to determine')."
+    },
+    {
+    "question": "There <u>was</u> four groups of <u>twenty rats</u> <u>each involved</u> in the <u>test</u>.",
+    "option1": "a. was",
+    "option2": "b. twenty rats",
+    "option3": "c. each involved",
+    "option4": "d. tets",
+    "answer": "a. was",
+    "explanation": "Error in A: 'was' (singular). Should be 'were' (plural to match 'four groups')."
+    },
+    {
+    "question": "The type of jazz <u>known as</u> 'swing' was <u>introduced</u> by Duke Ellington when <u>he</u> wrote and <u>records</u> 'It Don't Mean a Thing...'.",
+    "option1": "a. known as",
+    "option2": "b. introduced",
+    "option3": "c. he",
+    "option4": "d. records",
+    "answer": "d. records",
+    "explanation": "Error in D: 'records' (present tense). Should be 'recorded' (past tense to parallel 'wrote')."
+    },
+    {
+    "question": "The bones of mammals, <u>not alike</u> <u>those</u> of <u>other</u> vertebrates, <u>show</u> a high degree of differentiation.",
+    "option1": "a. not alike",
+    "option2": "b. those",
+    "option3": "c. other",
+    "option4": "d. show",
+    "answer": "a. not alike",
+    "explanation": "Error in A: 'not alike' (non-idiomatic). Should be 'unlike'."
+    },
+    {
+    "question": "The United States <u>receives</u> a <u>large amount</u> of revenue from <u>taxation</u> of <u>a</u> tobacco products.",
+    "option1": "a. receives",
+    "option2": "b. large amount",
+    "option3": "c. taxation",
+    "option4": "d. a",
+    "answer": "d. a",
+    "explanation": "Error in D: 'a tobacco' (article error). Should be 'tobacco' (no article for plural meaning)."
+    },
+    {
+    "question": "<u>Much</u> fats are composed of <u>one molecule</u> of glycerin <u>combined with</u> three molecules of <u>fatty acids</u>.",
+    "option1": "a. Much",
+    "option2": "b. one molecule",
+    "option3": "c. combined with",
+    "option4": "d. fatty acids",
+    "answer": "a. Much",
+    "explanation": "Error in A: 'Much' (used for uncountable nouns). Should be 'Many' (for countable 'fats')."
+    },
+    {
+    "question": "The <u>capital</u> of the Confederacy was <u>originally</u> in Mobile, but <u>they were</u> <u>moved</u> to Richmond.",
+    "option1": "a. capital",
+    "option2": "b. originally",
+    "option3": "c. they were",
+    "option4": "d. moved",
+    "answer": "c. they were",
+    "explanation": "Error in C: 'they' (plural pronoun). Should be 'it' (to match singular 'capital')."
+    },
+    {
+    "question": "A pearl develops <u>when</u> a tiny grain of sand or some <u>another</u> <u>irritant</u> accidentally <u>enters into</u> the shell of a pearl oyster.",
+    "option1": "a. when",
+    "option2": "b. another",
+    "option3": "c. irritant",
+    "option4": "d. enters into",
+    "answer": "b. another",
+    "explanation": "Error in b: 'another' (used with singular nouns). Should be 'other' (with plural 'irritants' implied)."
+    },
+    {
+    "question": "The English horn is <u>an alto</u> oboe with <u>a pitch</u> one fifth lower <u>as</u> <u>that</u> of the soprano oboe.",
+    "option1": "a. an alto",
+    "option2": "b. a pitch",
+    "option3": "c. as",
+    "option4": "d. that",
+    "answer": "c. as",
+    "explanation": "Error in c: 'lower as' (incorrect comparative). Should be 'lower than'."
+    },
+    {
+    "question": "In the Milky Way galaxy, <u>the most</u> <u>recent</u> observed supernova <u>appeared</u> <u>in</u> 1604.",
+    "option1": "a. the most",
+    "option2": "b. recent",
+    "option3": "c. appeared",
+    "option4": "d. in",
+    "answer": "b. recent",
+    "explanation": "Error in B: 'observed' placement. Should be 'most recently observed'."
+    },
+    {
+    "question": "<u>Although</u> the name suggests <u>otherwise</u>, the ship <u>known as</u> Old Ironsides was built of oak and cedar rather than <u>it was built</u> of iron.",
+    "option1": "a. Although",
+    "option2": "b. otherwise",
+    "option3": "c. known as",
+    "option4": "d. it was built",
+    "answer": "d. it was built",
+    "explanation": "Error in D: redundant 'it was built'. Should be 'rather than of iron'."
+    },
+    {
+    "question": "Never <u>in the history</u> of humanity <u>there have</u> been <u>more people</u> <u>living</u> on this relatively small planet.",
+    "option1": "a. in the history",
+    "option2": "b. there have",
+    "option3": "c. more people",
+    "option4": "d. living",
+    "answer": "b. there have",
+    "explanation": "Error in B: inverted structure needed. Should be 'have there been'."
+    },
+    {
+    "question": "Because of <u>the mobile</u> of Americans today, <u>it is</u> difficult for <u>them</u> to put down <u>real roots</u>.",
+    "option1": "a. the mobile",
+    "option2": "b. it is",
+    "option3": "c. them",
+    "option4": "d. real roots",
+    "answer": "a. the mobile",
+    "explanation": "Error in a: 'mobile' (adjective). Should be 'mobility' (noun)."
+    },
+    {
+    "question": "For five <u>years after</u> the Civil War, Robert E. Lee served <u>to</u> president of Washington College, <u>which</u> later <u>was called</u> Washington and Lee.",
+    "option1": "a. years after",
+    "option2": "b. to",
+    "option3": "c. which",
+    "option4": "d. was called",
+    "answer": "b. to",
+    "explanation": "Error in B: incorrect preposition 'to'. Should be 'as'."
+    },
+    {
+    "question": "Doctors <u>successfully</u> used hypnosis <u>during</u> World War II <u>to treat</u> <u>fatigue battle</u>.",
+    "option1": "a. successfully",
+    "option2": "b. during",
+    "option3": "c. to treat",
+    "option4": "d. fatigue battle",
+    "answer": "d. fatigue battle",
+    "explanation": "Error in D: word order. Should be 'battle fatigue'."
+    },
+    {
+    "question": "Balanchine's <u>plotless</u> ballets, <u>such</u> Jewels and The Four Temperaments, <u>present</u> dance <u>purely</u> as a celebration of the movement of the human body.",
+    "option1": "a. plotless",
+    "option2": "b. such",
+    "option3": "c. present",
+    "option4": "d. purely",
+    "answer": "b. such",
+    "explanation": "Error in B: missing 'as'. Should be 'such as'."
+    },
+    {
+    "question": "In a solar battery, a photosensitive <u>semiconducting</u> substance <u>such as</u> silicon crystal is <u>the source</u> of <u>electrician</u>.",
+    "option1": "a. semiconducting",
+    "option2": "b. such as",
+    "option3": "c. the source",
+    "option4": "d. electrician",
+    "answer": "d. electrician",
+    "explanation": "Error in D: wrong word 'electrician'. Should be 'electricity'."
+    },
+    {
+    "question": "<u>In early days</u> hydrochloric acid was <u>done</u> by <u>heating</u> a mixture of sodium chloride <u>with</u> iron sulfate.",
+    "option1": "a. In early days",
+    "option2": "b. done",
+    "option3": "c. heating",
+    "option4": "d. with",
+    "answer": "b. done",
+    "explanation": "Error in B: incorrect verb 'done'. Should be 'produced' or 'made'."
+    },
+    {
+        "question": "The lobster, <u>like</u> <u>many</u> crustaceans, can cast off <u>a damaging</u> appendage and regenerate a new appendage to <u>nearly normal size</u>.",
+        "option1": "a. like",
+        "option2": "b. many",
+        "option3": "c. a damaging",
+        "option4": "d. nearly normal size",
+        "answer": "c. a damaging",
+        "explanation": "The correct phrase should be 'a damaged appendage' (not 'a damaging appendage')."
+    },
+    {
+        "question": "The main cause of the <u>oceans' tides</u> <u>is</u> the <u>gravitation</u> pull of <u>the Moon</u>",
+        "option1": "a. oceans' tides",
+        "option2": "b. is",
+        "option3": "c. gravitation",
+        "option4": "d. the Moon",
+        "answer": "c. gravitation",
+        "explanation": "'Gravitation' is a noun, but here we need the adjective form ('gravitational') to modify 'pull.'"
+    },
+    {
+        "question": "<u>The</u> curricula of American public schools <u>are</u> <u>set in</u> individual sates; they <u>do not determine</u> by the federal goverment.",
+        "option1": "a. The",
+        "option2": "b. are",
+        "option3": "c. set in",
+        "option4": "d. do not determine",
+        "answer": "d. do not determine",
+        "explanation": "The correct phrase should be 'are not determined' (passive voice)."
+    },
+    {
+        "question": "The fact that the sophisticated technology <u>has become</u> part of <u>revolution</u> in travel <u>delivery systems</u> has not made travel schedules <u>less hectic</u>.",
+        "option1": "a. has become",
+        "option2": "b. revolution",
+        "option3": "c. deliery systems",
+        "option4": "d. less hectic",
+        "answer": "b. revolution",
+        "explanation": "The correct phrase should be 'part of a revolution'"
+    }
+    ]

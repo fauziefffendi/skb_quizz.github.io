@@ -1,0 +1,227 @@
+[
+{
+"question": "Mosquitoes will <u>accepts</u> the <u>malaria</u> parasite at <u>only one</u> stage of the parasite's <u>complex</u> life cycle.",
+"option1": "a. accepts",
+"option2": "b. malaria",
+"option3": "c. only one",
+"option4": "d. complex",
+"answer": "a. accepts",
+"explanation": "Error in a: 'accepts' (incorrect verb form after modal 'will'). Should be 'accept' (base form)."
+},
+{
+"question": "The <u>counterpart</u> <u>of</u> a negative <u>electrons</u> is the <u>positive</u> proton.",
+"option1": "a. counterpart",
+"option2": "b. of",
+"option3": "c. electrons",
+"option4": "d. positive",
+"answer": "c. electrons",
+"explanation": "Error in c: 'electrons' (plural). Should be 'electron' (singular to match 'a')."
+},
+{
+"question": "The ankle joint <u>occur</u> where the <u>lower</u> ends of the tibia and fibula slot <u>neatly</u> <u>around</u> the talus.",
+"option1": "a. occur",
+"option2": "b. lower",
+"option3": "c. neatly",
+"option4": "d. around",
+"answer": "a. occur",
+"explanation": "Error in a: 'occur' (plural verb). Should be 'occurs' (singular to match 'joint')."
+},
+{
+"question": "In the United States and Canada, <u>motor vehicle</u> laws <u>affect</u> the <u>operate</u> of motorcycles <u>as well as</u> automobiles.",
+"option1": "a. motor vehicle",
+"option2": "b. affect",
+"option3": "c. operate",
+"option4": "d. as well as",
+"answer": "c. operate",
+"explanation": "Error in c: 'operate' (verb). Should be 'operation' (noun form after 'the')."
+},
+{
+"question": "The neocortex <u>is</u>, in evolutionary <u>terms</u>, <u>most</u> recent <u>layer</u> of the brain.",
+"option1": "a. is",
+"option2": "b. terms",
+"option3": "c. most",
+"option4": "d. layer",
+"answer": "c. most",
+"explanation": "Error in c: missing article. Should be 'the most recent' (superlative requires 'the')."
+},
+{
+"question": "There <u>are</u> more than eighty-four million <u>specimens</u> in the National Museum of Natural History's <u>collection</u> of biological, geological, archeological, and <u>anthropology</u> treasures.",
+"option1": "a. are",
+"option2": "b. specimens",
+"option3": "c. collection",
+"option4": "d. anthropology",
+"answer": "d. anthropology",
+"explanation": "Error in D: 'anthropology' (noun). Should be 'anthropological' (adjective to parallel other adjectives)."
+},
+{
+"question": "<u>After</u> George Washington married <u>widow</u> Martha Custis, the couple <u>came</u> to <u>resides</u> at Mount Vernon.",
+"option1": "a. After",
+"option2": "b. widow",
+"option3": "c. came",
+"option4": "d. resides",
+"answer": "d. resides",
+"explanation": "Error in D: 'resides' (present tense). Should be 'reside' (base form after 'to')."
+},
+{
+"question": "At this stage in <u>their</u> development, <u>rubberized</u> asphalt can <u>hardly</u> be classified <u>as</u> cutting edge.",
+"option1": "a. their",
+"option2": "b. rubberized",
+"option3": "c. hardly",
+"option4": "d. as",
+"answer": "a. their",
+"explanation": " kesalahan utamanya adalah penggunaan 'their' tanpa referensi yang jelas dan ketidaksesuaian antara subjek dan kata ganti."
+},
+{
+"question": "Rhesus monkeys <u>exhibit</u> patterns of <u>shy</u> similar <u>to</u> <u>those</u> in humans.",
+"option1": "a. exhibit",
+"option2": "b. shy",
+"option3": "c. to",
+"option4": "d. those",
+"answer": "b. shy",
+"explanation": "Error in B: 'shy' (adjective). Should be 'shyness' (noun form after 'of')."
+},
+{
+"question": "In space, with <u>no</u> gravity for muscles to work <u>against</u>, <u>the body</u> becomes <u>weakly</u>.",
+"option1": "a. no",
+"option2": "b. against",
+"option3": "c. the body",
+"option4": "d. weakly",
+"answer": "d. weakly",
+"explanation": "Error in D: 'weakly' (adverb). Should be 'weak' (adjective after 'becomes')."
+},
+{
+"question": "Fort Jefferson, in the Dry Tortugas <u>off</u> the southern <u>tip</u> of Florida, can be <u>reach</u> <u>only by</u> boat or plane.",
+"option1": "a. off",
+"option2": "b. tip",
+"option3": "c. reach",
+"option4": "d. only by",
+"answer": "c. reach",
+"explanation": "Error in c: 'reach' (base form). Should be 'reached' (past participle after 'be')."
+},
+{
+"question": "<u>A</u> zoom lens <u>produces</u> an <u>inverted</u> real image, either on the film in a camera <u>and</u> on the light-sensitive tube of a television camera.",
+"option1": "a. A",
+"option2": "b. produces",
+"option3": "c. inverted",
+"option4": "d. and",
+"answer": "d. and",
+"explanation": "Error in d: 'and' breaks the 'either...or' correlative conjunction. Should be 'or'."
+},
+{
+"question": "<u>Supersonic</u> flight is flight <u>that</u> is <u>faster</u> the <u>speed of sound</u>.",
+"option1": "a. Supersonic",
+"option2": "b. that",
+"option3": "c. faster",
+"option4": "d. speed of sound",
+"answer": "c. faster",
+"explanation": "Error in c: missing comparative preposition. Should be 'faster than'."
+},
+{
+"question": "The Betataken House Ruins at Navajo National Monument <u>is</u> among the <u>largest</u> and most <u>elaborate</u> cliff dwellings in the <u>country</u>.",
+"option1": "a. is",
+"option2": "b. largest",
+"option3": "c. elaborate",
+"option4": "d. country",
+"answer": "a. is",
+"explanation": "Error in a: 'is' (singular). Should be 'are' (plural to match 'Ruins')."
+},
+{
+"question": "It is <u>a common</u> observation that liquids <u>will soak</u> through some materials <u>but not</u> through <u>other</u>.",
+"option1": "a. a common",
+"option2": "b. will soak",
+"option3": "c. but not",
+"option4": "d. other",
+"answer": "d. other",
+"explanation": "Error in D: 'other' (adjective). Should be 'others' (pronoun referring to materials)."
+},
+{
+"question": "The number of <u>wild horses</u> on Assateague <u>are</u> increasing lately, <u>resulting</u> in <u>overgrazed</u> marsh and dune grasses.",
+"option1": "a. wild horses",
+"option2": "b. are",
+"option3": "c. resulting",
+"option4": "d. overgrazed",
+"answer": "b. are",
+"explanation": "Error in B: 'are' (plural). Should be 'is' (singular to match 'The number')."
+},
+{
+"question": "The newsreels of Hearst Metronome News, which formed part of <u>every</u> moviegoer's experience in the era <u>before television</u>, offer <u>an</u> unique record of the <u>events</u> of the 1930s.",
+"option1": "a. every",
+"option2": "b. before television",
+"option3": "c. an",
+"option4": "d. events",
+"answer": "c. an",
+"explanation": "Error in C: 'an' (used before vowel sounds). Should be 'a' (before 'unique' which starts with a y-sound)."
+},
+{
+"question": "<u>Unlikely</u> gas <u>sport</u> balloons, hot air balloons do not <u>have</u> <u>nets</u>.",
+"option1": "a. Unlikely",
+"option2": "b. sport",
+"option3": "c. have",
+"option4": "d. nets",
+"answer": "a. Unlikely",
+"explanation": "Error in A: 'Unlikely' (adjective). Should be 'Unlike' (preposition for comparison)."
+},
+{
+"question": "<u>Born</u> in Massachusetts in 1852, Albert Farbanks <u>has begun</u> <u>making</u> banjos in Boston in <u>the late</u> 1870s.",
+"option1": "a. Born",
+"option2": "b. has begun",
+"option3": "c. making",
+"option4": "d. the late",
+"answer": "b. has begun",
+"explanation": "Error in B: 'has begun' (present perfect). Should be 'began' (simple past for specific past time)."
+},
+{
+"question": "Dwight David Eisenhower, military <u>officer</u> and thirty-fourth president of the United States, <u>lived</u> in the White House and <u>of least</u> thirty-seven <u>other</u> residences.",
+"option1": "a. officer",
+"option2": "b. lived",
+"option3": "c. of least",
+"option4": "d. other",
+"answer": "c. of least",
+"explanation": "Error in C: 'of least' (incorrect phrase). Should be 'at least' (correct adverbial phrase)."
+},
+{
+"question": "Methane in wetlands <u>comes</u> <u>from</u> soil bacteria that <u>consumes</u> organic plant <u>matter</u>.",
+"option1": "a. comes",
+"option2": "b. from",
+"option3": "c. consumes",
+"option4": "d. matter",
+"answer": "c. consumes",
+"explanation": "Error in C: 'consumes' (singular). Should be 'consume' (plural to match 'bacteria')."
+},
+{
+"question": "Alois Alzheimer made the first <u>observers</u> of the <u>telltale signs</u> of the disease that today <u>bears</u> <u>his name</u>.",
+"option1": "a. observers",
+"option2": "b. telltale signs",
+"option3": "c. bears",
+"option4": "d. his name",
+"answer": "a. observers",
+"explanation": "Error in a: 'observers' (people). Should be 'observations' (things observed)."
+},
+{
+"question": "Edward MacDowell <u>remembers</u> as the <u>composer</u> of such <u>perennial</u> <u>favorites</u> as 'To a Wild Rose' and 'To a Water Lily.'",
+"option1": "a. remembers",
+"option2": "b. composer",
+"option3": "c. perenial",
+"option4": "d. favorites",
+"answer": "a. remembers",
+"explanation": "Error in A: 'remembers' (active voice). Should be 'is remembered' (passive voice)."
+},
+{
+"question": "Animism is the <u>belief</u> that objects and natural <u>phenomena</u> such as rivers, rocks, and wind are <u>live</u> and have <u>feelings</u>.",
+"option1": "a. belief",
+"option2": "b. phenomena",
+"option3": "c. live",
+"option4": "d. feelings",
+"answer": "c. live",
+"explanation": "Error in C: 'live' (verb/adjective). Should be 'alive' (adjective meaning living)."
+},
+{
+"question": "Newtonian physics <u>accounts</u> <u>for</u> the <u>observing</u> <u>orbits</u> of the planets and the moons.",
+"option1": "a. accounts",
+"option2": "b. for",
+"option3": "c. observing",
+"option4": "d. orbits",
+"answer": "c. observing",
+"explanation": "Error in c: 'observing' (present participle). Should be 'observed' (past participle as adjective)."
+}
+]

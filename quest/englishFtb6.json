@@ -9,7 +9,7 @@
     "explanation": "Error in B: 'travels' (incorrect verb form after modal 'can'). Should be 'travel' (base form)."
     },
     {
-    "question": "Every human <u>typically<u/> <u>have</u> twenty-three <u>pairs</u> of chromosomes in <u>most cells<u/>.",
+    "question": "Every human <u>typically</u> <u>have</u> twenty-three <u>pairs</u> of chromosomes in <u>most cells<u/>.",
     "option1": "a. typically",
     "option2": "b. have",
     "option3": "c. pairs",

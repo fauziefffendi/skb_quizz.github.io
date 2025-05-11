@@ -1,0 +1,137 @@
+[
+{
+"question": "______, the outermost layer of skin, is about as thick as a sheet of paper over most of the skin.",
+"option1": "a. It is the epidermis",
+"option2": "b. In the epidermis",
+"option3": "c. The epidermis",
+"option4": "d. The epidermis is",
+"answer": "c. The epidermis",
+"explanation": "The sentence requires a noun phrase as the subject. Option C provides the correct noun phrase 'The epidermis' which is then described by the appositive 'the outermost layer of skin'."
+},
+{
+"question": "Sam Spade in *The Maltese Falcon* and Rick Blaine in *Casablanca* ______ of Humphrey Bogart's more famous roles.",
+"option1": "a. they are two",
+"option2": "b. two of them are",
+"option3": "c. two of them",
+"option4": "d. are two",
+"answer": "d. are two",
+"explanation": "The sentence requires a verb to complete the predicate. Option D 'are two' correctly links the subject to the complement 'of Humphrey Bogart's more famous roles'."
+},
+{
+"question": "The compound microscope has not one ______ two lenses.",
+"option1": "a. and also",
+"option2": "b. but",
+"option3": "c. and there are",
+"option4": "d. but there are",
+"answer": "b. but",
+"explanation": "The phrase 'not one...but...' is the correct correlative conjunction pair to show contrast between having one lens versus two lenses."
+},
+{
+"question": "During the Precambrian period, the Earth's crust formed, and life ______ in the seas.",
+"option1": "a. first appeared",
+"option2": "b. first to appear",
+"option3": "c. is first appearing",
+"option4": "d. appearing",
+"answer": "a. first appeared",
+"explanation": "The sentence requires a past tense verb to match 'formed'. Option A 'first appeared' is the correct simple past tense form."
+},
+{
+"question": "The hard palate forms a partition ______ and nasal passages.",
+"option1": "a. the mouth",
+"option2": "b. between the mouth",
+"option3": "c. is between the mouth",
+"option4": "d. it is between the mouth",
+"answer": "b. between the mouth",
+"explanation": "The preposition 'between' is needed to show the relationship of the partition separating the mouth and nasal passages."
+},
+{
+"question": "Conditions required for seed germination include abundant water, an adequate supply of oxygen, and ______.",
+"option1": "a. the temperatures must be appropriate",
+"option2": "b. having appropriate temperatures",
+"option3": "c. appropriate temperatures",
+"option4": "d. appropriately temperate",
+"answer": "c. appropriate temperatures",
+"explanation": "The sentence requires a noun phrase to maintain parallel structure with 'abundant water' and 'adequate supply of oxygen'. Option C 'appropriate temperatures' is the correct noun phrase."
+},
+{
+"question": "When fluid accumulates against the eardrum, a second more insidious type of ______.",
+"option1": "a. *ottitis media* may develop",
+"option2": "b. developing *ottitis media*",
+"option3": "c. the development of *ottitis media*",
+"option4": "d. to develop *ottitis media*",
+"answer": "a. *ottitis media* may develop",
+"explanation": "The sentence requires a complete clause with a subject and verb. Option A provides the correct clause '*ottitis media* may develop'."
+},
+{
+"question": "Some general theories of motivation ______ of central motives, from which other motives develop.",
+"option1": "a. identify a limited number",
+"option2": "b. identification of a limited amount",
+"option3": "c. identify a limited amount",
+"option4": "d. identifying a limited number",
+"answer": "a. identify a limited number",
+"explanation": "The sentence requires a present tense verb that agrees with 'theories'. Option A 'identify a limited number' is correct, using 'number' with countable 'motives'."
+},
+{
+"question": "Before the Statue of Liberty arrived in the United States, newspapers invited the public to help determine where ______ placed after its arrival.",
+"option1": "a. should the statue be",
+"option2": "b. the statue being",
+"option3": "c. it should be the statue",
+"option4": "d. the statue should be",
+"answer": "d. the statue should be",
+"explanation": "The embedded question requires normal word order (not inverted). Option D 'the statue should be' is the correct structure for an embedded question."
+},
+{
+"question": "Hydroelectric power can be produced by ______ and using tidal flow to run turbines.",
+"option1": "a. water basins are dammed",
+"option2": "b. damming water basins",
+"option3": "c. to dam water basins",
+"option4": "d. dams in water basins",
+"answer": "b. damming water basins",
+"explanation": "The preposition 'by' requires a gerund phrase to parallel 'using'. Option B 'damming water basins' is the correct gerund phrase."
+},
+{
+"question": "Abraham Lincoln and Jefferson Davis, ______ of the Union and the Confederacy during the Civil War, were both born in Kentucky.",
+"option1": "a. they were opposing presidents",
+"option2": "b. were opposing presidents",
+"option3": "c. opposing presidents",
+"option4": "d. presidents opposed",
+"answer": "c. opposing presidents",
+"explanation": "The sentence requires an appositive phrase to describe Lincoln and Davis. Option C 'opposing presidents' is the correct reduced appositive phrase."
+},
+{
+"question": "A stock ______ at an inflated price is called a watered stock.",
+"option1": "a. issued",
+"option2": "b. is issued",
+"option3": "c. it is issued",
+"option4": "d. which issued",
+"answer": "a. issued",
+"explanation": "The sentence requires a past participle to modify 'stock'. Option A 'issued' is the correct past participle form."
+},
+{
+"question": "The leaves of the white mulberry provide food for silkworms, ______ silk fabrics are woven.",
+"option1": "a. whose cocoons",
+"option2": "b. from cocoons",
+"option3": "c. whose cocoons are from",
+"option4": "d. from whose cocoons",
+"answer": "d. from whose cocoons",
+"explanation": "The relative clause requires the correct prepositional phrase. Option D 'from whose cocoons' shows the origin of the silk fabrics."
+},
+{
+"question": "Not only ______ generate energy, but it also produces fuel for other fission reactors.",
+"option1": "a. a nuclear breeder reactor",
+"option2": "b. it is a nuclear breeder reactor",
+"option3": "c. does a nuclear breeder reactor",
+"option4": "d. is a nuclear breeder reactor",
+"answer": "c. does a nuclear breeder reactor",
+"explanation": "The correlative conjunction 'Not only' requires subject-auxiliary inversion. Option C 'does a nuclear breeder reactor' shows the correct inversion."
+},
+{
+"question": "D.W. Griffith pioneered many of the stylistic features and filmmaking techniques ______ as the Hollywood standard.",
+"option1": "a. that established",
+"option2": "b. that became established",
+"option3": "c. what established",
+"option4": "d. what became established",
+"answer": "b. that became established",
+"explanation": "The relative clause requires the passive construction to show the techniques were established as standard. Option B 'that became established' is correct."
+}
+]
